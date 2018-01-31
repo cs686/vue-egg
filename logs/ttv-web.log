@@ -1,0 +1,256 @@
+2018-01-31 11:05:29,640 INFO 57592 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 11:05:29,640 INFO 57591 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 11:05:29,642 INFO 57594 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 11:05:29,701 INFO 57593 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 11:05:46,134 INFO 57592 [-/192.168.32.233/-/458ms GET /] [access] 192.168.32.233: - GET / HTTP/200 191626 - 397 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 11:06:04,640 INFO 57594 [-/192.168.32.233/-/132ms GET /] [access] 192.168.32.233: - GET / HTTP/200 191626 - 125 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 11:06:07,485 INFO 57593 [-/192.168.32.233/-/136ms GET /] [access] 192.168.32.233: - GET / HTTP/200 191626 - 133 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 11:06:10,489 INFO 57591 [-/192.168.32.233/-/24ms GET /client] [access] 192.168.32.233: - GET /client HTTP/200 2841 http://192.168.32.233:7001/ 19 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 11:06:16,597 INFO 57594 [-/127.0.0.1/-/4ms GET /app/api/article/list] [access] 127.0.0.1: - GET /app/api/article/list HTTP/200 1862 - 2 - axios/0.17.1
+2018-01-31 11:06:16,632 INFO 57592 [-/192.168.32.233/-/318ms GET /app] [access] 192.168.32.233: - GET /app HTTP/200 192180 http://192.168.32.233:7001/client 316 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 11:06:19,639 INFO 57591 [-/127.0.0.1/-/11ms GET /app/api/article/47] [access] 127.0.0.1: - GET /app/api/article/47 HTTP/200 2 http://192.168.32.233:7001/app/detail/47 2 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 11:06:23,552 INFO 57592 [-/192.168.32.233/-/134ms GET /] [access] 192.168.32.233: - GET / HTTP/200 191626 http://192.168.32.233:7001/app/detail/47 132 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 11:06:29,246 INFO 57591 [-/192.168.32.233/-/4ms GET /client] [access] 192.168.32.233: - GET /client HTTP/200 2841 http://192.168.32.233:7001/ 2 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 11:06:31,414 INFO 57592 [-/192.168.32.233/-/725ms GET /element] [access] 192.168.32.233: - GET /element HTTP/200 384054 http://192.168.32.233:7001/client 724 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 11:06:37,437 INFO 57593 [-/192.168.32.233/-/7ms GET /client] [access] 192.168.32.233: - GET /client HTTP/200 2841 http://192.168.32.233:7001/element 6 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 11:06:39,174 INFO 57594 [-/192.168.32.233/-/59ms GET /] [access] 192.168.32.233: - GET / HTTP/200 191626 http://192.168.32.233:7001/client 58 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 11:06:49,169 INFO 57592 [-/192.168.32.233/-/3ms GET /pager?pageIndex=2&pageSize=10] [access] 192.168.32.233: - GET /pager?pageIndex=2&pageSize=10 HTTP/200 1946 http://192.168.32.233:7001/ 2 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 11:06:50,724 INFO 57592 [-/192.168.32.233/-/1ms GET /pager?pageIndex=3&pageSize=10] [access] 192.168.32.233: - GET /pager?pageIndex=3&pageSize=10 HTTP/200 1877 http://192.168.32.233:7001/ 0 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 11:08:48,577 INFO 57594 [-/192.168.32.233/-/12ms GET /pager?pageIndex=4&pageSize=10] [access] 192.168.32.233: - GET /pager?pageIndex=4&pageSize=10 HTTP/200 1862 http://192.168.32.233:7001/ 6 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 11:08:49,277 INFO 57594 [-/192.168.32.233/-/208ms GET /] [access] 192.168.32.233: - GET / HTTP/200 191626 http://192.168.32.233:7001/ 207 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 11:08:50,408 INFO 57593 [-/192.168.32.233/-/178ms GET /] [access] 192.168.32.233: - GET / HTTP/200 191626 http://192.168.32.233:7001/ 175 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 11:09:25,924 INFO 57591 [-/192.168.32.233/-/7ms GET /pager?pageIndex=2&pageSize=10] [access] 192.168.32.233: - GET /pager?pageIndex=2&pageSize=10 HTTP/200 1946 http://192.168.32.233:7001/ 3 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 11:09:27,765 INFO 57591 [-/192.168.32.233/-/1ms GET /pager?pageIndex=3&pageSize=10] [access] 192.168.32.233: - GET /pager?pageIndex=3&pageSize=10 HTTP/200 1877 http://192.168.32.233:7001/ 1 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 11:09:29,933 INFO 57591 [-/192.168.32.233/-/4ms GET /client] [access] 192.168.32.233: - GET /client HTTP/200 2841 http://192.168.32.233:7001/ 4 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 11:10:10,872 INFO 57593 [-/192.168.32.233/-/247ms GET /] [access] 192.168.32.233: - GET / HTTP/200 191626 http://192.168.32.233:7001/client 243 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 13:19:47,702 INFO 57594 [-/192.168.32.233/-/27ms GET /pager?pageIndex=2&pageSize=10] [access] 192.168.32.233: - GET /pager?pageIndex=2&pageSize=10 HTTP/200 1946 http://192.168.32.233:7001/ 5 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 13:20:08,450 INFO 57593 [-/192.168.32.233/-/34ms GET /pager?pageIndex=3&pageSize=10] [access] 192.168.32.233: - GET /pager?pageIndex=3&pageSize=10 HTTP/200 1877 http://192.168.32.233:7001/ 23 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 13:20:09,997 INFO 57593 [-/192.168.32.233/-/10ms GET /pager?pageIndex=4&pageSize=10] [access] 192.168.32.233: - GET /pager?pageIndex=4&pageSize=10 HTTP/200 1862 http://192.168.32.233:7001/ 0 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 13:20:15,713 INFO 57591 [-/192.168.32.233/-/21ms GET /pager?pageIndex=5&pageSize=10] [access] 192.168.32.233: - GET /pager?pageIndex=5&pageSize=10 HTTP/200 1946 http://192.168.32.233:7001/ 4 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 13:20:17,271 INFO 57591 [-/192.168.32.233/-/2ms GET /pager?pageIndex=6&pageSize=10] [access] 192.168.32.233: - GET /pager?pageIndex=6&pageSize=10 HTTP/200 1877 http://192.168.32.233:7001/ 2 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 13:20:18,816 INFO 57591 [-/192.168.32.233/-/2ms GET /pager?pageIndex=7&pageSize=10] [access] 192.168.32.233: - GET /pager?pageIndex=7&pageSize=10 HTTP/200 22 http://192.168.32.233:7001/ 2 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 13:23:02,033 INFO 57592 [-/192.168.32.233/-/444ms GET /less] [access] 192.168.32.233: - GET /less HTTP/200 184966 - 378 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 13:23:21,326 INFO 57591 [-/192.168.32.233/-/334ms GET /test] [access] 192.168.32.233: - GET /test HTTP/200 184696 - 333 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 13:27:21,086 INFO 57592 [-/192.168.32.233/-/182ms GET /test] [access] 192.168.32.233: - GET /test HTTP/200 184696 - 178 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 13:27:24,228 INFO 57594 [-/192.168.32.233/-/135ms GET /test] [access] 192.168.32.233: - GET /test HTTP/200 184696 - 131 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 13:29:16,943 INFO 57591 [-/192.168.32.233/-/210ms GET /test] [access] 192.168.32.233: - GET /test HTTP/200 184709 - 197 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 13:33:35,090 INFO 57593 [-/192.168.32.233/-/119ms GET /sass] [access] 192.168.32.233: - GET /sass HTTP/200 184786 - 113 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:14:32,392 INFO 57591 [-/192.168.32.233/-/71ms GET /list] [access] 192.168.32.233: - GET /list HTTP/404 - - 8 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:16:27,483 INFO 57594 [-/192.168.32.233/-/835ms GET /] [access] 192.168.32.233: - GET / HTTP/200 191626 - 807 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:16:32,955 INFO 57593 [-/192.168.32.233/-/20ms GET /pager?pageIndex=2&pageSize=10] [access] 192.168.32.233: - GET /pager?pageIndex=2&pageSize=10 HTTP/200 1946 http://192.168.32.233:7001/ 16 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:16:49,720 INFO 57594 [-/192.168.32.233/-/304ms GET /] [access] 192.168.32.233: - GET / HTTP/200 191626 - 303 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:16:57,760 INFO 57593 [-/192.168.32.233/-/301ms GET /] [access] 192.168.32.233: - GET / HTTP/200 191626 - 294 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:17:10,849 INFO 57591 [-/127.0.0.1/-/8ms GET /app/api/article/list] [access] 127.0.0.1: - GET /app/api/article/list HTTP/200 1862 - 1 - axios/0.17.1
+2018-01-31 15:17:10,918 INFO 57591 [-/192.168.32.233/-/550ms GET /app] [access] 192.168.32.233: - GET /app HTTP/200 192180 - 546 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:17:20,157 INFO 57592 [-/127.0.0.1/-/28ms GET /app/api/article/54] [access] 127.0.0.1: - GET /app/api/article/54 HTTP/200 2 http://192.168.32.233:7001/app/detail/54 2 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:17:26,321 INFO 57593 [-/127.0.0.1/-/16ms GET /app/api/article/47] [access] 127.0.0.1: - GET /app/api/article/47 HTTP/200 2 http://192.168.32.233:7001/app/detail/47 1 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:17:30,479 INFO 57593 [-/127.0.0.1/-/3ms GET /app/api/article/46] [access] 127.0.0.1: - GET /app/api/article/46 HTTP/200 2 http://192.168.32.233:7001/app/detail/46 1 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:18:32,789 INFO 57591 [-/192.168.32.233/-/167ms GET /] [access] 192.168.32.233: - GET / HTTP/200 191626 - 165 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:18:35,692 INFO 57594 [-/192.168.32.233/-/8ms GET /client] [access] 192.168.32.233: - GET /client HTTP/200 2841 http://192.168.32.233:7001/ 8 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:18:38,215 INFO 57593 [-/192.168.32.233/-/153ms GET /] [access] 192.168.32.233: - GET / HTTP/200 191626 http://192.168.32.233:7001/client 146 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:18:40,154 INFO 57594 [-/192.168.32.233/-/1ms GET /client] [access] 192.168.32.233: - GET /client HTTP/200 2841 http://192.168.32.233:7001/ 1 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:20:28,893 INFO 57592 [-/192.168.32.233/-/342ms GET /element] [access] 192.168.32.233: - GET /element HTTP/200 384054 http://192.168.32.233:7001/client 340 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:22:10,950 INFO 57591 [-/192.168.32.233/-/108ms GET /sass] [access] 192.168.32.233: - GET /sass HTTP/200 184786 - 108 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:24:05,151 INFO 57592 [-/192.168.32.233/-/148ms GET /element] [access] 192.168.32.233: - GET /element HTTP/200 384054 http://192.168.32.233:7001/sass 144 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:24:09,202 INFO 57593 [-/192.168.32.233/-/756ms GET /element] [access] 192.168.32.233: - GET /element HTTP/200 384054 http://192.168.32.233:7001/sass 755 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:24:21,948 INFO 57591 [-/192.168.32.233/-/688ms GET /element] [access] 192.168.32.233: - GET /element HTTP/200 384054 http://192.168.32.233:7001/sass 687 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:24:54,040 INFO 57594 [-/192.168.32.233/-/537ms GET /elementjs] [access] 192.168.32.233: - GET /elementjs HTTP/200 380508 - 536 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:28:23,268 INFO 57591 [-/192.168.32.233/-/180ms GET /elementjs] [access] 192.168.32.233: - GET /elementjs HTTP/200 380966 - 177 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:29:55,990 INFO 68869 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:29:56,047 INFO 68871 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:29:56,033 INFO 68872 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:29:56,030 INFO 68870 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:30:23,872 INFO 68902 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:30:23,819 INFO 68903 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:30:23,935 INFO 68904 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:30:24,001 INFO 68901 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:31:03,226 WARN 68903 [-/192.168.32.233/-/11ms POST /upload] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2018-01-31 15:31:03,230 WARN 68903 [-/192.168.32.233/-/14ms POST /upload] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa/lib/context.js:92:11)
+    at Object.assertCsrf (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/app/extend/context.js:148:17)
+    at csrf (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/lib/middlewares/csrf.js:31:9)
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:43:18)
+    at session (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:43:18)
+message: 'invalid csrf token'
+headers: { 'Access-Control-Allow-Origin': 'http://192.168.32.233:7001' }
+pid: 68903
+hostname: localhost
+
+2018-01-31 15:31:58,845 INFO 68992 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:31:58,847 INFO 68989 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:31:58,896 INFO 68990 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:31:58,845 INFO 68991 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:32:21,250 WARN 68992 [-/192.168.32.233/-/11ms POST /upload] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2018-01-31 15:32:21,253 WARN 68992 [-/192.168.32.233/-/13ms POST /upload] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa/lib/context.js:92:11)
+    at Object.assertCsrf (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/app/extend/context.js:148:17)
+    at csrf (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/lib/middlewares/csrf.js:31:9)
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:43:18)
+    at session (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:43:18)
+message: 'invalid csrf token'
+headers: { 'Access-Control-Allow-Origin': 'http://192.168.32.233:7001' }
+pid: 68992
+hostname: localhost
+
+2018-01-31 15:34:24,423 INFO 68990 [-/192.168.32.233/-/658ms GET /elementjs] [access] 192.168.32.233: - GET /elementjs HTTP/200 380966 - 631 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:36:20,575 INFO 68992 [-/192.168.32.233/-/530ms GET /elementjs] [access] 192.168.32.233: - GET /elementjs HTTP/200 380966 - 526 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:37:10,853 INFO 68989 [-/192.168.32.233/-/539ms GET /elementjs] [access] 192.168.32.233: - GET /elementjs HTTP/200 380966 - 530 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:37:22,075 WARN 68991 [-/192.168.32.233/-/13ms POST /upload?_csrf=safe] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2018-01-31 15:37:22,079 WARN 68991 [-/192.168.32.233/-/17ms POST /upload?_csrf=safe] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa/lib/context.js:92:11)
+    at Object.assertCsrf (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/app/extend/context.js:148:17)
+    at csrf (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/lib/middlewares/csrf.js:31:9)
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:43:18)
+    at session (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:43:18)
+message: 'invalid csrf token'
+headers: { 'Access-Control-Allow-Origin': 'http://192.168.32.233:7001' }
+pid: 68991
+hostname: localhost
+
+2018-01-31 15:39:25,018 INFO 68989 [-/192.168.32.233/-/455ms GET /elementjs] [access] 192.168.32.233: - GET /elementjs HTTP/200 380966 - 448 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:39:35,769 WARN 68991 [-/192.168.32.233/-/2ms POST /upload?_csrf=safe] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2018-01-31 15:39:35,772 WARN 68991 [-/192.168.32.233/-/5ms POST /upload?_csrf=safe] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa/lib/context.js:92:11)
+    at Object.assertCsrf (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/app/extend/context.js:148:17)
+    at csrf (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/lib/middlewares/csrf.js:31:9)
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:43:18)
+    at session (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:43:18)
+message: 'invalid csrf token'
+headers: { 'Access-Control-Allow-Origin': 'http://192.168.32.233:7001' }
+pid: 68991
+hostname: localhost
+
+2018-01-31 15:42:19,538 INFO 69652 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:42:19,538 INFO 69653 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:42:19,538 INFO 69655 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:42:19,543 INFO 69654 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:43:36,484 INFO 69747 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:43:36,484 INFO 69746 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:43:36,487 INFO 69749 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:43:36,584 INFO 69748 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:43:51,155 INFO 69749 [-/192.168.32.233/-/737ms GET /] [access] 192.168.32.233: - GET / HTTP/200 191626 - 684 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:43:58,067 INFO 69749 [-/192.168.32.233/-/410ms GET /elementjs] [access] 192.168.32.233: - GET /elementjs HTTP/200 380966 - 409 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:44:13,278 WARN 69749 [-/192.168.32.233/-/3ms POST /upload] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2018-01-31 15:44:13,281 WARN 69749 [-/192.168.32.233/-/5ms POST /upload] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa/lib/context.js:92:11)
+    at Object.assertCsrf (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/app/extend/context.js:148:17)
+    at csrf (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/lib/middlewares/csrf.js:31:9)
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:43:18)
+    at session (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:43:18)
+message: 'invalid csrf token'
+headers: { 'Access-Control-Allow-Origin': 'http://192.168.32.233:7001' }
+pid: 69749
+hostname: localhost
+
+2018-01-31 15:45:06,804 INFO 69853 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:45:08,699 INFO 69860 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:45:09,360 INFO 69857 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:45:08,754 INFO 69858 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:45:12,708 INFO 69862 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:45:12,725 INFO 69863 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:45:12,760 INFO 69861 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:45:12,780 INFO 69864 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:47:29,285 INFO 69989 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:47:29,277 INFO 69988 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:47:29,278 INFO 69990 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:47:29,547 INFO 69987 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:48:02,993 INFO 69989 [-/192.168.32.233/-/281ms GET /test] [access] 192.168.32.233: - GET /test HTTP/200 184709 - 271 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:48:13,285 INFO 69989 [-/192.168.32.233/-/136ms GET /test] [access] 192.168.32.233: - GET /test HTTP/200 184709 - 134 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:48:43,147 INFO 70057 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:48:43,178 INFO 70055 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:48:43,148 INFO 70058 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:48:43,147 INFO 70056 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:48:52,901 INFO 70070 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:48:52,983 INFO 70072 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:48:53,057 INFO 70073 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:48:53,194 INFO 70071 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:48:56,179 INFO 70070 [-/192.168.32.233/-/373ms GET /test] [access] 192.168.32.233: - GET /test HTTP/200 184709 - 348 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:49:04,788 INFO 70071 [-/192.168.32.233/-/111ms GET /test] [access] 192.168.32.233: - GET /test HTTP/200 184709 - 102 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:49:33,206 INFO 70073 [-/192.168.32.233/-/167ms GET /test] [access] 192.168.32.233: - GET /test HTTP/200 184661 - 158 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:49:47,268 INFO 70072 [-/192.168.32.233/-/115ms GET /test] [access] 192.168.32.233: - GET /test HTTP/200 184672 - 109 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:50:08,069 INFO 70152 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:50:11,349 INFO 70152 [-/192.168.32.233/-/141ms GET /test] [access] 192.168.32.233: - GET /test HTTP/200 184672 - 129 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:50:12,175 INFO 70159 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:50:12,193 INFO 70157 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:50:12,187 INFO 70158 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:50:12,254 INFO 70156 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:50:35,559 INFO 70187 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:50:35,566 INFO 70188 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:50:35,560 INFO 70189 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:50:35,583 INFO 70190 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:50:46,666 INFO 70187 [-/192.168.32.233/-/266ms GET /test] [access] 192.168.32.233: - GET /test HTTP/200 184697 - 252 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:51:03,444 INFO 70222 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:51:03,509 INFO 70224 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:51:03,565 INFO 70221 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:51:03,760 INFO 70223 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:51:05,883 INFO 70222 [-/192.168.32.233/-/105ms GET /test] [access] 192.168.32.233: - GET /test HTTP/200 187879 - 95 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:51:21,944 INFO 70223 [-/192.168.32.233/-/131ms GET /test] [access] 192.168.32.233: - GET /test HTTP/200 187879 - 123 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:53:26,233 INFO 70221 [-/192.168.32.233/-/284ms GET /test] [access] 192.168.32.233: - GET /test HTTP/200 185921 - 257 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:53:54,325 INFO 70224 [-/192.168.32.233/-/160ms GET /test] [access] 192.168.32.233: - GET /test HTTP/200 186765 - 143 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:53:58,961 INFO 70221 [-/192.168.32.233/-/80ms GET /test] [access] 192.168.32.233: - GET /test HTTP/200 186765 - 79 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:54:00,542 INFO 70221 [-/192.168.32.233/-/97ms GET /test] [access] 192.168.32.233: - GET /test HTTP/200 186765 - 96 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:54:16,635 INFO 70222 [-/192.168.32.233/-/127ms GET /test] [access] 192.168.32.233: - GET /test HTTP/200 185921 - 125 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:54:18,995 INFO 70224 [-/192.168.32.233/-/58ms GET /test] [access] 192.168.32.233: - GET /test HTTP/200 185921 - 58 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:55:24,495 INFO 70223 [-/192.168.32.233/-/686ms GET /elementjs] [access] 192.168.32.233: - GET /elementjs HTTP/200 380966 - 682 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:55:30,926 INFO 70221 [-/192.168.32.233/-/4ms POST /upload?_csrf=M71t0GAmIYPUEn0D7_HdHIwE] [access] 192.168.32.233: - POST /upload?_csrf=M71t0GAmIYPUEn0D7_HdHIwE HTTP/200 1 http://192.168.32.233:7001/elementjs 1 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:58:29,914 INFO 70222 [-/192.168.32.233/-/655ms GET /elementjs] [access] 192.168.32.233: - GET /elementjs HTTP/200 380966 - 651 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:59:04,403 INFO 70223 [-/192.168.32.233/-/5ms POST /upload?_csrf=M71t0GAmIYPUEn0D7_HdHIwE] [access] 192.168.32.233: - POST /upload?_csrf=M71t0GAmIYPUEn0D7_HdHIwE HTTP/200 1 http://192.168.32.233:7001/elementjs 1 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 15:59:35,286 INFO 70694 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:59:35,286 INFO 70693 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:59:35,290 INFO 70695 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:59:35,288 INFO 70692 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:59:51,098 INFO 70712 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:59:51,102 INFO 70715 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:59:51,618 INFO 70713 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:59:51,639 INFO 70714 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 15:59:56,466 INFO 70715 [-/192.168.32.233/-/11ms POST /upload?_csrf=M71t0GAmIYPUEn0D7_HdHIwE] [access] 192.168.32.233: - POST /upload?_csrf=M71t0GAmIYPUEn0D7_HdHIwE HTTP/200 1308 http://192.168.32.233:7001/elementjs 1 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 16:02:05,489 INFO 70833 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 16:02:05,487 INFO 70834 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 16:02:05,488 INFO 70832 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 16:02:05,511 INFO 70835 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 16:02:18,758 INFO 70834 [-/192.168.32.233/-/43ms POST /upload?_csrf=M71t0GAmIYPUEn0D7_HdHIwE] [access] 192.168.32.233: - POST /upload?_csrf=M71t0GAmIYPUEn0D7_HdHIwE HTTP/200 1309 http://192.168.32.233:7001/elementjs 13 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 16:02:56,331 INFO 70892 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 16:02:56,296 INFO 70893 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 16:02:56,389 INFO 70891 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 16:02:56,479 INFO 70890 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 16:03:09,409 INFO 70907 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 16:03:09,400 INFO 70906 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 16:03:09,393 INFO 70905 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 16:03:09,399 INFO 70904 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 16:03:15,944 INFO 70917 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 16:03:18,231 INFO 70922 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 16:03:18,250 INFO 70921 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 16:03:18,267 INFO 70924 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 16:03:18,466 INFO 70923 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 16:03:24,127 INFO 70922 [-/192.168.32.233/-/750ms GET /elementjs] [access] 192.168.32.233: - GET /elementjs HTTP/200 380966 - 737 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 16:04:12,971 INFO 70975 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 16:04:12,970 INFO 70974 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 16:04:13,019 INFO 70972 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 16:04:13,036 INFO 70973 [egg-logview] mount log /Users/shunpingqi/Desktop/sedawk/tt/ttv/logs at http://127.0.0.1:7001/__logs
+2018-01-31 16:04:17,035 INFO 70974 [-/192.168.32.233/-/655ms GET /elementjs] [access] 192.168.32.233: - GET /elementjs HTTP/200 380966 - 635 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2018-01-31 16:04:24,496 INFO 70973 [-/192.168.32.233/-/52ms POST /upload?_csrf=M71t0GAmIYPUEn0D7_HdHIwE] [access] 192.168.32.233: - POST /upload?_csrf=M71t0GAmIYPUEn0D7_HdHIwE HTTP/404 - http://192.168.32.233:7001/elementjs 4 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36

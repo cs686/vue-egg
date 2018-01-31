@@ -1,0 +1,171 @@
+2018-01-31 12:18:29,205 ERROR 57590 nodejs.ClusterClientNoResponseError: client no response in 2839008ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 57590
+hostname: localhost
+
+2018-01-31 12:18:29,207 ERROR 57590 nodejs.ClusterClientNoResponseError: client no response in 2838978ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 57590
+hostname: localhost
+
+2018-01-31 12:18:29,208 ERROR 57590 nodejs.ClusterClientNoResponseError: client no response in 2838931ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 57590
+hostname: localhost
+
+2018-01-31 12:18:29,208 ERROR 57590 nodejs.ClusterClientNoResponseError: client no response in 2838931ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 57590
+hostname: localhost
+
+2018-01-31 13:19:43,240 ERROR 57590 nodejs.ClusterClientNoResponseError: client no response in 3053794ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 57590
+hostname: localhost
+
+2018-01-31 13:19:43,241 ERROR 57590 nodejs.ClusterClientNoResponseError: client no response in 3053795ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 57590
+hostname: localhost
+
+2018-01-31 13:19:43,241 ERROR 57590 nodejs.ClusterClientNoResponseError: client no response in 3053795ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 57590
+hostname: localhost
+
+2018-01-31 13:19:43,241 ERROR 57590 nodejs.ClusterClientNoResponseError: client no response in 3053795ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 57590
+hostname: localhost
+
+2018-01-31 15:42:31,807 ERROR 69652 [-/192.168.32.233/-/9ms GET /] nodejs.ReferenceError: isInnerIp is not defined
+    at ignore (/Users/shunpingqi/Desktop/sedawk/tt/ttv/config/config.default.js:37:28)
+    at Object.pathMatch [as matching] (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-path-matching/index.js:13:21)
+    at Object.checkIfIgnore (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/lib/utils.js:31:16)
+    at csrf (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/lib/middlewares/csrf.js:9:15)
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:43:18)
+    at session (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+
+pid: 69652
+hostname: localhost
+
+2018-01-31 15:42:58,558 ERROR 69655 [-/192.168.32.233/-/9ms GET /] nodejs.ReferenceError: isInnerIp is not defined
+    at ignore (/Users/shunpingqi/Desktop/sedawk/tt/ttv/config/config.default.js:37:28)
+    at Object.pathMatch [as matching] (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-path-matching/index.js:13:21)
+    at Object.checkIfIgnore (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/lib/utils.js:31:16)
+    at csrf (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/lib/middlewares/csrf.js:9:15)
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:43:18)
+    at session (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+
+pid: 69655
+hostname: localhost
+
+2018-01-31 15:43:00,889 ERROR 69655 [-/192.168.32.233/-/0ms GET /] nodejs.ReferenceError: isInnerIp is not defined
+    at ignore (/Users/shunpingqi/Desktop/sedawk/tt/ttv/config/config.default.js:37:28)
+    at Object.pathMatch [as matching] (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-path-matching/index.js:13:21)
+    at Object.checkIfIgnore (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/lib/utils.js:31:16)
+    at csrf (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/lib/middlewares/csrf.js:9:15)
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:43:18)
+    at session (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+
+pid: 69655
+hostname: localhost
+
+2018-01-31 15:43:24,002 ERROR 69652 [-/192.168.32.233/-/2ms GET /] nodejs.ReferenceError: isInnerIp is not defined
+    at ignore (/Users/shunpingqi/Desktop/sedawk/tt/ttv/config/config.default.js:37:28)
+    at Object.pathMatch [as matching] (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-path-matching/index.js:13:21)
+    at Object.checkIfIgnore (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/lib/utils.js:31:16)
+    at csrf (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/lib/middlewares/csrf.js:9:15)
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:43:18)
+    at session (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-compose/index.js:42:32)
+
+pid: 69652
+hostname: localhost
+
+2018-01-31 16:03:31,112 ERROR 70924 [-/192.168.32.233/-/20ms POST /upload?_csrf=M71t0GAmIYPUEn0D7_HdHIwE] nodejs.TypeError: Cannot read property 'fileType' of undefined
+    at TestController.upload (/Users/shunpingqi/Desktop/sedawk/tt/ttv/app/controller/test/test.js:13:35)
+    at Object.callFn (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-core/lib/utils/index.js:44:21)
+    at wrappedController (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+headers: { 'Access-Control-Allow-Origin': 'http://192.168.32.233:7001' }
+pid: 70924
+hostname: localhost
+
+2018-01-31 18:23:52,069 ERROR 81801 [-/127.0.0.1/-/21ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find index/index.js from /Users/shunpingqi/Desktop/sedawk/tt/ttv/app/view
+    at Map.resolve (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-view/lib/view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 81801
+hostname: localhost
+
+2018-01-31 18:23:59,474 ERROR 81801 [-/127.0.0.1/-/3ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find index/index.js from /Users/shunpingqi/Desktop/sedawk/tt/ttv/app/view
+    at Map.resolve (/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-view/lib/view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 81801
+hostname: localhost
+

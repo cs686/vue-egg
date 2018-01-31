@@ -1,0 +1,316 @@
+{
+  "siteFile": {
+    "/favicon.ico": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/config/config.default.js"
+  },
+  "view": {
+    "cache": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/config/config.default.js",
+    "root": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-view/config/config.default.js",
+    "defaultExtension": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-view/config/config.default.js",
+    "mapping": {
+      ".js": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-view-vue-ssr/config/config.default.js"
+    }
+  },
+  "vuessr": {
+    "layout": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/config/config.default.js",
+    "doctype": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "manifest": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectHeadRegex": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectBodyRegex": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectCss": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectJs": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "crossorigin": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectRes": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "fallbackToClient": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "cache": {
+      "max": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-view-vue-ssr/config/config.default.js",
+      "maxAge": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-view-vue-ssr/config/config.default.js"
+    },
+    "afterRender": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-view-vue-ssr/config/config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/config/config.default.js",
+    "dir": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/config/config.default.js",
+    "encoding": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "env": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "level": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "coreLogger": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "allowDebugAtProd": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/config/config.default.js",
+    "dir": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/config/config.default.js",
+    "dynamic": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-static/config/config.prod.js",
+    "maxFiles": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-static/config/config.default.js",
+    "maxAge": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-static/config/config.prod.js"
+  },
+  "keys": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/config/config.default.js",
+  "security": {
+    "csrf": {
+      "headerName": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/config/config.default.js",
+      "enable": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js",
+      "maxAge": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "middleware": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-watcher/config/config.default.js",
+    "eventSources": {
+      "default": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-multipart/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "env": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+  "name": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "version": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "description": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "build": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "build:dev": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "build:test": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "build:prod": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "dll": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "start": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "start:test": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "start:prod": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "kill": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "kill-mac": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "kill-win": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "restart": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "lint": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "fix": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "axios": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "egg": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "egg-logger": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "egg-validate": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "egg-view-vue-ssr": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "element-ui": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "extend": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "lodash": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "mint-ui": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "mockjs": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "moment": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "server-side-render-resource": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "vue": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "vue-hot-reload-api": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "vue-router": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "vue-server-renderer": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "vuex": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "vuex-router-sync": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod-egg": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "autoprefixer": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "babel-core": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "babel-eslint": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "babel-loader": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "babel-plugin-add-module-exports": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "babel-plugin-syntax-dynamic-import": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "babel-plugin-transform-object-assign": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "babel-plugin-transform-object-rest-spread": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "babel-plugin-transform-runtime": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "babel-preset-env": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "cross-env": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "directory-named-webpack-plugin": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "easywebpack-cli": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "easywebpack-vue": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "egg-logview": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "egg-webpack": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "egg-webpack-vue": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "eslint-loader": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "eslint-plugin-vue": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "imagemin-webpack-plugin": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "install": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "ip": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "less": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "less-loader": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "node-sass": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "postcss-loader": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "progress-bar-webpack-plugin": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "sass-loader": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "uglifyjs-webpack-plugin": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "vconsole": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "vue-template-compiler": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "webpack-manifest-resource-plugin": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "url": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "license": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "homepage": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "strict": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "depth": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js"
+    }
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+    "logging": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "port": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "responseTimeout": "/Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg/config/config.default.js"
+  }
+}

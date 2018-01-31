@@ -1,0 +1,1178 @@
+2018-01-31 11:05:29,471 INFO 57592 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 11:05:29,526 INFO 57592 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 11:05:29,526 INFO 57592 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 11:05:29,628 INFO 57592 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 11:05:29,633 INFO 57592 [egg-security] use csrf middleware
+2018-01-31 11:05:29,635 INFO 57592 [egg-security] use methodnoallow middleware
+2018-01-31 11:05:29,636 INFO 57592 [egg-security] use noopen middleware
+2018-01-31 11:05:29,636 INFO 57592 [egg-security] use nosniff middleware
+2018-01-31 11:05:29,637 INFO 57592 [egg-security] use xssProtection middleware
+2018-01-31 11:05:29,638 INFO 57592 [egg-security] use xframe middleware
+2018-01-31 11:05:29,639 INFO 57592 [egg-security] use dta middleware
+2018-01-31 11:05:29,639 INFO 57592 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 11:05:29,750 INFO 57592 [egg-watcher:app] watcher start success
+2018-01-31 11:05:29,472 INFO 57591 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 11:05:29,526 INFO 57591 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 11:05:29,526 INFO 57591 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 11:05:29,628 INFO 57591 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 11:05:29,633 INFO 57591 [egg-security] use csrf middleware
+2018-01-31 11:05:29,635 INFO 57591 [egg-security] use methodnoallow middleware
+2018-01-31 11:05:29,636 INFO 57591 [egg-security] use noopen middleware
+2018-01-31 11:05:29,636 INFO 57591 [egg-security] use nosniff middleware
+2018-01-31 11:05:29,637 INFO 57591 [egg-security] use xssProtection middleware
+2018-01-31 11:05:29,638 INFO 57591 [egg-security] use xframe middleware
+2018-01-31 11:05:29,639 INFO 57591 [egg-security] use dta middleware
+2018-01-31 11:05:29,639 INFO 57591 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 11:05:29,824 INFO 57591 [egg-watcher:app] watcher start success
+2018-01-31 11:05:29,497 INFO 57594 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 11:05:29,549 INFO 57594 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 11:05:29,549 INFO 57594 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 11:05:29,632 INFO 57594 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 11:05:29,637 INFO 57594 [egg-security] use csrf middleware
+2018-01-31 11:05:29,638 INFO 57594 [egg-security] use methodnoallow middleware
+2018-01-31 11:05:29,639 INFO 57594 [egg-security] use noopen middleware
+2018-01-31 11:05:29,640 INFO 57594 [egg-security] use nosniff middleware
+2018-01-31 11:05:29,640 INFO 57594 [egg-security] use xssProtection middleware
+2018-01-31 11:05:29,641 INFO 57594 [egg-security] use xframe middleware
+2018-01-31 11:05:29,641 INFO 57594 [egg-security] use dta middleware
+2018-01-31 11:05:29,641 INFO 57594 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 11:05:29,773 INFO 57594 [egg-watcher:app] watcher start success
+2018-01-31 11:05:29,520 INFO 57593 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 11:05:29,572 INFO 57593 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 11:05:29,572 INFO 57593 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 11:05:29,665 INFO 57593 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 11:05:29,678 INFO 57593 [egg-security] use csrf middleware
+2018-01-31 11:05:29,681 INFO 57593 [egg-security] use methodnoallow middleware
+2018-01-31 11:05:29,685 INFO 57593 [egg-security] use noopen middleware
+2018-01-31 11:05:29,686 INFO 57593 [egg-security] use nosniff middleware
+2018-01-31 11:05:29,690 INFO 57593 [egg-security] use xssProtection middleware
+2018-01-31 11:05:29,694 INFO 57593 [egg-security] use xframe middleware
+2018-01-31 11:05:29,700 INFO 57593 [egg-security] use dta middleware
+2018-01-31 11:05:29,700 INFO 57593 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 11:05:29,793 INFO 57593 [egg-watcher:app] watcher start success
+2018-01-31 12:18:29,188 WARN 57592 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-01-31 12:18:29,178 WARN 57594 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-01-31 12:18:29,176 WARN 57591 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-01-31 12:18:29,147 WARN 57593 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-01-31 13:19:43,230 WARN 57594 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-01-31 13:19:43,229 WARN 57593 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-01-31 13:19:43,230 WARN 57591 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-01-31 13:19:43,231 WARN 57592 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-01-31 15:29:55,696 INFO 68869 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:29:55,797 INFO 68869 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:29:55,797 INFO 68869 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:29:55,978 INFO 68869 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:29:55,982 INFO 68869 [egg-security] use csrf middleware
+2018-01-31 15:29:55,984 INFO 68869 [egg-security] use methodnoallow middleware
+2018-01-31 15:29:55,984 INFO 68869 [egg-security] use noopen middleware
+2018-01-31 15:29:55,985 INFO 68869 [egg-security] use nosniff middleware
+2018-01-31 15:29:55,987 INFO 68869 [egg-security] use xssProtection middleware
+2018-01-31 15:29:55,987 INFO 68869 [egg-security] use xframe middleware
+2018-01-31 15:29:55,988 INFO 68869 [egg-security] use dta middleware
+2018-01-31 15:29:55,988 INFO 68869 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:29:56,112 INFO 68869 [egg-watcher:app] watcher start success
+2018-01-31 15:29:55,700 INFO 68871 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:29:55,805 INFO 68871 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:29:55,805 INFO 68871 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:29:55,986 INFO 68871 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:29:55,990 INFO 68871 [egg-security] use csrf middleware
+2018-01-31 15:29:55,992 INFO 68871 [egg-security] use methodnoallow middleware
+2018-01-31 15:29:55,992 INFO 68871 [egg-security] use noopen middleware
+2018-01-31 15:29:55,993 INFO 68871 [egg-security] use nosniff middleware
+2018-01-31 15:29:55,993 INFO 68871 [egg-security] use xssProtection middleware
+2018-01-31 15:29:55,994 INFO 68871 [egg-security] use xframe middleware
+2018-01-31 15:29:56,047 INFO 68871 [egg-security] use dta middleware
+2018-01-31 15:29:56,047 INFO 68871 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:29:56,146 INFO 68871 [egg-watcher:app] watcher start success
+2018-01-31 15:29:55,721 INFO 68872 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:29:55,843 INFO 68872 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:29:55,843 INFO 68872 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:29:55,996 INFO 68872 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:29:56,029 INFO 68872 [egg-security] use csrf middleware
+2018-01-31 15:29:56,030 INFO 68872 [egg-security] use methodnoallow middleware
+2018-01-31 15:29:56,031 INFO 68872 [egg-security] use noopen middleware
+2018-01-31 15:29:56,031 INFO 68872 [egg-security] use nosniff middleware
+2018-01-31 15:29:56,031 INFO 68872 [egg-security] use xssProtection middleware
+2018-01-31 15:29:56,032 INFO 68872 [egg-security] use xframe middleware
+2018-01-31 15:29:56,032 INFO 68872 [egg-security] use dta middleware
+2018-01-31 15:29:56,032 INFO 68872 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:29:56,149 INFO 68872 [egg-watcher:app] watcher start success
+2018-01-31 15:29:55,725 INFO 68870 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:29:55,844 INFO 68870 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:29:55,844 INFO 68870 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:29:55,988 INFO 68870 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:29:55,996 INFO 68870 [egg-security] use csrf middleware
+2018-01-31 15:29:55,998 INFO 68870 [egg-security] use methodnoallow middleware
+2018-01-31 15:29:56,000 INFO 68870 [egg-security] use noopen middleware
+2018-01-31 15:29:56,000 INFO 68870 [egg-security] use nosniff middleware
+2018-01-31 15:29:56,001 INFO 68870 [egg-security] use xssProtection middleware
+2018-01-31 15:29:56,002 INFO 68870 [egg-security] use xframe middleware
+2018-01-31 15:29:56,003 INFO 68870 [egg-security] use dta middleware
+2018-01-31 15:29:56,003 INFO 68870 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:29:56,144 INFO 68870 [egg-watcher:app] watcher start success
+2018-01-31 15:30:23,496 INFO 68902 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:30:23,657 INFO 68902 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:30:23,658 INFO 68902 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:30:23,836 INFO 68902 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:30:23,860 INFO 68902 [egg-security] use csrf middleware
+2018-01-31 15:30:23,862 INFO 68902 [egg-security] use methodnoallow middleware
+2018-01-31 15:30:23,863 INFO 68902 [egg-security] use noopen middleware
+2018-01-31 15:30:23,863 INFO 68902 [egg-security] use nosniff middleware
+2018-01-31 15:30:23,864 INFO 68902 [egg-security] use xssProtection middleware
+2018-01-31 15:30:23,870 INFO 68902 [egg-security] use xframe middleware
+2018-01-31 15:30:23,870 INFO 68902 [egg-security] use dta middleware
+2018-01-31 15:30:23,870 INFO 68902 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:30:24,006 INFO 68902 [egg-watcher:app] watcher start success
+2018-01-31 15:30:23,505 INFO 68903 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:30:23,646 INFO 68903 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:30:23,646 INFO 68903 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:30:23,805 INFO 68903 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:30:23,811 INFO 68903 [egg-security] use csrf middleware
+2018-01-31 15:30:23,812 INFO 68903 [egg-security] use methodnoallow middleware
+2018-01-31 15:30:23,813 INFO 68903 [egg-security] use noopen middleware
+2018-01-31 15:30:23,814 INFO 68903 [egg-security] use nosniff middleware
+2018-01-31 15:30:23,815 INFO 68903 [egg-security] use xssProtection middleware
+2018-01-31 15:30:23,817 INFO 68903 [egg-security] use xframe middleware
+2018-01-31 15:30:23,818 INFO 68903 [egg-security] use dta middleware
+2018-01-31 15:30:23,818 INFO 68903 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:30:23,973 INFO 68903 [egg-watcher:app] watcher start success
+2018-01-31 15:30:23,613 INFO 68904 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:30:23,743 INFO 68904 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:30:23,743 INFO 68904 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:30:23,926 INFO 68904 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:30:23,930 INFO 68904 [egg-security] use csrf middleware
+2018-01-31 15:30:23,932 INFO 68904 [egg-security] use methodnoallow middleware
+2018-01-31 15:30:23,932 INFO 68904 [egg-security] use noopen middleware
+2018-01-31 15:30:23,933 INFO 68904 [egg-security] use nosniff middleware
+2018-01-31 15:30:23,934 INFO 68904 [egg-security] use xssProtection middleware
+2018-01-31 15:30:23,934 INFO 68904 [egg-security] use xframe middleware
+2018-01-31 15:30:23,935 INFO 68904 [egg-security] use dta middleware
+2018-01-31 15:30:23,935 INFO 68904 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:30:24,038 INFO 68904 [egg-watcher:app] watcher start success
+2018-01-31 15:30:23,685 INFO 68901 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:30:23,807 INFO 68901 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:30:23,807 INFO 68901 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:30:23,991 INFO 68901 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:30:23,996 INFO 68901 [egg-security] use csrf middleware
+2018-01-31 15:30:23,997 INFO 68901 [egg-security] use methodnoallow middleware
+2018-01-31 15:30:23,998 INFO 68901 [egg-security] use noopen middleware
+2018-01-31 15:30:23,998 INFO 68901 [egg-security] use nosniff middleware
+2018-01-31 15:30:23,999 INFO 68901 [egg-security] use xssProtection middleware
+2018-01-31 15:30:24,000 INFO 68901 [egg-security] use xframe middleware
+2018-01-31 15:30:24,000 INFO 68901 [egg-security] use dta middleware
+2018-01-31 15:30:24,001 INFO 68901 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:30:24,097 INFO 68901 [egg-watcher:app] watcher start success
+2018-01-31 15:31:58,511 INFO 68992 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:31:58,579 INFO 68992 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:31:58,579 INFO 68992 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:31:58,794 INFO 68992 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:31:58,829 INFO 68992 [egg-security] use csrf middleware
+2018-01-31 15:31:58,831 INFO 68992 [egg-security] use methodnoallow middleware
+2018-01-31 15:31:58,834 INFO 68992 [egg-security] use noopen middleware
+2018-01-31 15:31:58,835 INFO 68992 [egg-security] use nosniff middleware
+2018-01-31 15:31:58,840 INFO 68992 [egg-security] use xssProtection middleware
+2018-01-31 15:31:58,843 INFO 68992 [egg-security] use xframe middleware
+2018-01-31 15:31:58,844 INFO 68992 [egg-security] use dta middleware
+2018-01-31 15:31:58,844 INFO 68992 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:31:58,966 INFO 68992 [egg-watcher:app] watcher start success
+2018-01-31 15:31:58,508 INFO 68989 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:31:58,583 INFO 68989 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:31:58,583 INFO 68989 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:31:58,833 INFO 68989 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:31:58,841 INFO 68989 [egg-security] use csrf middleware
+2018-01-31 15:31:58,843 INFO 68989 [egg-security] use methodnoallow middleware
+2018-01-31 15:31:58,843 INFO 68989 [egg-security] use noopen middleware
+2018-01-31 15:31:58,844 INFO 68989 [egg-security] use nosniff middleware
+2018-01-31 15:31:58,845 INFO 68989 [egg-security] use xssProtection middleware
+2018-01-31 15:31:58,846 INFO 68989 [egg-security] use xframe middleware
+2018-01-31 15:31:58,846 INFO 68989 [egg-security] use dta middleware
+2018-01-31 15:31:58,846 INFO 68989 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:31:58,975 INFO 68989 [egg-watcher:app] watcher start success
+2018-01-31 15:31:58,508 INFO 68990 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:31:58,581 INFO 68990 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:31:58,581 INFO 68990 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:31:58,833 INFO 68990 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:31:58,841 INFO 68990 [egg-security] use csrf middleware
+2018-01-31 15:31:58,843 INFO 68990 [egg-security] use methodnoallow middleware
+2018-01-31 15:31:58,860 INFO 68990 [egg-security] use noopen middleware
+2018-01-31 15:31:58,865 INFO 68990 [egg-security] use nosniff middleware
+2018-01-31 15:31:58,872 INFO 68990 [egg-security] use xssProtection middleware
+2018-01-31 15:31:58,894 INFO 68990 [egg-security] use xframe middleware
+2018-01-31 15:31:58,895 INFO 68990 [egg-security] use dta middleware
+2018-01-31 15:31:58,895 INFO 68990 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:31:58,967 INFO 68990 [egg-watcher:app] watcher start success
+2018-01-31 15:31:58,507 INFO 68991 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:31:58,585 INFO 68991 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:31:58,585 INFO 68991 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:31:58,786 INFO 68991 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:31:58,832 INFO 68991 [egg-security] use csrf middleware
+2018-01-31 15:31:58,833 INFO 68991 [egg-security] use methodnoallow middleware
+2018-01-31 15:31:58,834 INFO 68991 [egg-security] use noopen middleware
+2018-01-31 15:31:58,835 INFO 68991 [egg-security] use nosniff middleware
+2018-01-31 15:31:58,841 INFO 68991 [egg-security] use xssProtection middleware
+2018-01-31 15:31:58,842 INFO 68991 [egg-security] use xframe middleware
+2018-01-31 15:31:58,844 INFO 68991 [egg-security] use dta middleware
+2018-01-31 15:31:58,844 INFO 68991 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:31:58,969 INFO 68991 [egg-watcher:app] watcher start success
+2018-01-31 15:42:19,374 INFO 69652 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:42:19,425 INFO 69652 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:42:19,426 INFO 69652 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:42:19,527 INFO 69652 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:42:19,532 INFO 69652 [egg-security] use csrf middleware
+2018-01-31 15:42:19,533 INFO 69652 [egg-security] use methodnoallow middleware
+2018-01-31 15:42:19,534 INFO 69652 [egg-security] use noopen middleware
+2018-01-31 15:42:19,535 INFO 69652 [egg-security] use nosniff middleware
+2018-01-31 15:42:19,535 INFO 69652 [egg-security] use xssProtection middleware
+2018-01-31 15:42:19,536 INFO 69652 [egg-security] use xframe middleware
+2018-01-31 15:42:19,537 INFO 69652 [egg-security] use dta middleware
+2018-01-31 15:42:19,537 INFO 69652 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:42:19,619 INFO 69652 [egg-watcher:app] watcher start success
+2018-01-31 15:42:19,374 INFO 69653 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:42:19,425 INFO 69653 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:42:19,425 INFO 69653 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:42:19,527 INFO 69653 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:42:19,532 INFO 69653 [egg-security] use csrf middleware
+2018-01-31 15:42:19,533 INFO 69653 [egg-security] use methodnoallow middleware
+2018-01-31 15:42:19,534 INFO 69653 [egg-security] use noopen middleware
+2018-01-31 15:42:19,535 INFO 69653 [egg-security] use nosniff middleware
+2018-01-31 15:42:19,536 INFO 69653 [egg-security] use xssProtection middleware
+2018-01-31 15:42:19,536 INFO 69653 [egg-security] use xframe middleware
+2018-01-31 15:42:19,537 INFO 69653 [egg-security] use dta middleware
+2018-01-31 15:42:19,537 INFO 69653 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:42:19,647 INFO 69653 [egg-watcher:app] watcher start success
+2018-01-31 15:42:19,374 INFO 69655 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:42:19,430 INFO 69655 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:42:19,430 INFO 69655 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:42:19,527 INFO 69655 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:42:19,532 INFO 69655 [egg-security] use csrf middleware
+2018-01-31 15:42:19,533 INFO 69655 [egg-security] use methodnoallow middleware
+2018-01-31 15:42:19,535 INFO 69655 [egg-security] use noopen middleware
+2018-01-31 15:42:19,535 INFO 69655 [egg-security] use nosniff middleware
+2018-01-31 15:42:19,536 INFO 69655 [egg-security] use xssProtection middleware
+2018-01-31 15:42:19,536 INFO 69655 [egg-security] use xframe middleware
+2018-01-31 15:42:19,537 INFO 69655 [egg-security] use dta middleware
+2018-01-31 15:42:19,537 INFO 69655 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:42:19,646 INFO 69655 [egg-watcher:app] watcher start success
+2018-01-31 15:42:19,398 INFO 69654 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:42:19,449 INFO 69654 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:42:19,449 INFO 69654 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:42:19,532 INFO 69654 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:42:19,537 INFO 69654 [egg-security] use csrf middleware
+2018-01-31 15:42:19,539 INFO 69654 [egg-security] use methodnoallow middleware
+2018-01-31 15:42:19,539 INFO 69654 [egg-security] use noopen middleware
+2018-01-31 15:42:19,540 INFO 69654 [egg-security] use nosniff middleware
+2018-01-31 15:42:19,540 INFO 69654 [egg-security] use xssProtection middleware
+2018-01-31 15:42:19,541 INFO 69654 [egg-security] use xframe middleware
+2018-01-31 15:42:19,542 INFO 69654 [egg-security] use dta middleware
+2018-01-31 15:42:19,542 INFO 69654 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:42:19,632 INFO 69654 [egg-watcher:app] watcher start success
+2018-01-31 15:43:36,305 INFO 69747 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:43:36,374 INFO 69747 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:43:36,374 INFO 69747 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:43:36,473 INFO 69747 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:43:36,478 INFO 69747 [egg-security] use csrf middleware
+2018-01-31 15:43:36,479 INFO 69747 [egg-security] use methodnoallow middleware
+2018-01-31 15:43:36,480 INFO 69747 [egg-security] use noopen middleware
+2018-01-31 15:43:36,481 INFO 69747 [egg-security] use nosniff middleware
+2018-01-31 15:43:36,482 INFO 69747 [egg-security] use xssProtection middleware
+2018-01-31 15:43:36,482 INFO 69747 [egg-security] use xframe middleware
+2018-01-31 15:43:36,483 INFO 69747 [egg-security] use dta middleware
+2018-01-31 15:43:36,483 INFO 69747 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:43:36,592 INFO 69747 [egg-watcher:app] watcher start success
+2018-01-31 15:43:36,313 INFO 69746 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:43:36,375 INFO 69746 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:43:36,375 INFO 69746 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:43:36,473 INFO 69746 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:43:36,478 INFO 69746 [egg-security] use csrf middleware
+2018-01-31 15:43:36,479 INFO 69746 [egg-security] use methodnoallow middleware
+2018-01-31 15:43:36,480 INFO 69746 [egg-security] use noopen middleware
+2018-01-31 15:43:36,481 INFO 69746 [egg-security] use nosniff middleware
+2018-01-31 15:43:36,482 INFO 69746 [egg-security] use xssProtection middleware
+2018-01-31 15:43:36,482 INFO 69746 [egg-security] use xframe middleware
+2018-01-31 15:43:36,483 INFO 69746 [egg-security] use dta middleware
+2018-01-31 15:43:36,483 INFO 69746 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:43:36,598 INFO 69746 [egg-watcher:app] watcher start success
+2018-01-31 15:43:36,327 INFO 69749 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:43:36,401 INFO 69749 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:43:36,401 INFO 69749 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:43:36,477 INFO 69749 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:43:36,482 INFO 69749 [egg-security] use csrf middleware
+2018-01-31 15:43:36,483 INFO 69749 [egg-security] use methodnoallow middleware
+2018-01-31 15:43:36,484 INFO 69749 [egg-security] use noopen middleware
+2018-01-31 15:43:36,484 INFO 69749 [egg-security] use nosniff middleware
+2018-01-31 15:43:36,485 INFO 69749 [egg-security] use xssProtection middleware
+2018-01-31 15:43:36,486 INFO 69749 [egg-security] use xframe middleware
+2018-01-31 15:43:36,486 INFO 69749 [egg-security] use dta middleware
+2018-01-31 15:43:36,486 INFO 69749 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:43:36,585 INFO 69749 [egg-watcher:app] watcher start success
+2018-01-31 15:43:36,407 INFO 69748 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:43:36,465 INFO 69748 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:43:36,465 INFO 69748 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:43:36,574 INFO 69748 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:43:36,578 INFO 69748 [egg-security] use csrf middleware
+2018-01-31 15:43:36,579 INFO 69748 [egg-security] use methodnoallow middleware
+2018-01-31 15:43:36,580 INFO 69748 [egg-security] use noopen middleware
+2018-01-31 15:43:36,581 INFO 69748 [egg-security] use nosniff middleware
+2018-01-31 15:43:36,581 INFO 69748 [egg-security] use xssProtection middleware
+2018-01-31 15:43:36,582 INFO 69748 [egg-security] use xframe middleware
+2018-01-31 15:43:36,583 INFO 69748 [egg-security] use dta middleware
+2018-01-31 15:43:36,583 INFO 69748 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:43:36,647 INFO 69748 [egg-watcher:app] watcher start success
+2018-01-31 15:45:06,640 INFO 69853 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:45:06,695 INFO 69853 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:45:06,696 INFO 69853 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:45:06,791 INFO 69853 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:45:06,796 INFO 69853 [egg-security] use csrf middleware
+2018-01-31 15:45:06,797 INFO 69853 [egg-security] use methodnoallow middleware
+2018-01-31 15:45:06,798 INFO 69853 [egg-security] use noopen middleware
+2018-01-31 15:45:06,799 INFO 69853 [egg-security] use nosniff middleware
+2018-01-31 15:45:06,800 INFO 69853 [egg-security] use xssProtection middleware
+2018-01-31 15:45:06,802 INFO 69853 [egg-security] use xframe middleware
+2018-01-31 15:45:06,803 INFO 69853 [egg-security] use dta middleware
+2018-01-31 15:45:06,803 INFO 69853 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:45:06,873 INFO 69853 [egg-watcher:app] watcher start success
+2018-01-31 15:45:08,489 INFO 69860 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:45:08,557 INFO 69860 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:45:08,557 INFO 69860 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:45:08,676 INFO 69860 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:45:08,689 INFO 69860 [egg-security] use csrf middleware
+2018-01-31 15:45:08,693 INFO 69860 [egg-security] use methodnoallow middleware
+2018-01-31 15:45:08,696 INFO 69860 [egg-security] use noopen middleware
+2018-01-31 15:45:08,696 INFO 69860 [egg-security] use nosniff middleware
+2018-01-31 15:45:08,697 INFO 69860 [egg-security] use xssProtection middleware
+2018-01-31 15:45:08,698 INFO 69860 [egg-security] use xframe middleware
+2018-01-31 15:45:08,699 INFO 69860 [egg-security] use dta middleware
+2018-01-31 15:45:08,699 INFO 69860 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:45:09,208 INFO 69860 [egg-watcher:app] watcher start success
+2018-01-31 15:45:08,491 INFO 69857 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:45:08,617 INFO 69857 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:45:08,617 INFO 69857 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:45:09,315 INFO 69857 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:45:09,322 INFO 69857 [egg-security] use csrf middleware
+2018-01-31 15:45:09,323 INFO 69857 [egg-security] use methodnoallow middleware
+2018-01-31 15:45:09,326 INFO 69857 [egg-security] use noopen middleware
+2018-01-31 15:45:09,326 INFO 69857 [egg-security] use nosniff middleware
+2018-01-31 15:45:09,327 INFO 69857 [egg-security] use xssProtection middleware
+2018-01-31 15:45:09,357 INFO 69857 [egg-security] use xframe middleware
+2018-01-31 15:45:09,359 INFO 69857 [egg-security] use dta middleware
+2018-01-31 15:45:09,359 INFO 69857 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:45:09,474 INFO 69857 [egg-watcher:app] watcher start success
+2018-01-31 15:45:08,513 INFO 69858 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:45:08,572 INFO 69858 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:45:08,572 INFO 69858 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:45:08,703 INFO 69858 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:45:08,741 INFO 69858 [egg-security] use csrf middleware
+2018-01-31 15:45:08,742 INFO 69858 [egg-security] use methodnoallow middleware
+2018-01-31 15:45:08,744 INFO 69858 [egg-security] use noopen middleware
+2018-01-31 15:45:08,745 INFO 69858 [egg-security] use nosniff middleware
+2018-01-31 15:45:08,746 INFO 69858 [egg-security] use xssProtection middleware
+2018-01-31 15:45:08,748 INFO 69858 [egg-security] use xframe middleware
+2018-01-31 15:45:08,753 INFO 69858 [egg-security] use dta middleware
+2018-01-31 15:45:08,753 INFO 69858 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:45:09,299 INFO 69858 [egg-watcher:app] watcher start success
+2018-01-31 15:45:12,454 INFO 69862 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:45:12,560 INFO 69862 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:45:12,560 INFO 69862 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:45:12,692 INFO 69862 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:45:12,701 INFO 69862 [egg-security] use csrf middleware
+2018-01-31 15:45:12,703 INFO 69862 [egg-security] use methodnoallow middleware
+2018-01-31 15:45:12,704 INFO 69862 [egg-security] use noopen middleware
+2018-01-31 15:45:12,705 INFO 69862 [egg-security] use nosniff middleware
+2018-01-31 15:45:12,706 INFO 69862 [egg-security] use xssProtection middleware
+2018-01-31 15:45:12,706 INFO 69862 [egg-security] use xframe middleware
+2018-01-31 15:45:12,707 INFO 69862 [egg-security] use dta middleware
+2018-01-31 15:45:12,707 INFO 69862 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:45:12,812 INFO 69862 [egg-watcher:app] watcher start success
+2018-01-31 15:45:12,489 INFO 69863 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:45:12,601 INFO 69863 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:45:12,601 INFO 69863 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:45:12,700 INFO 69863 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:45:12,704 INFO 69863 [egg-security] use csrf middleware
+2018-01-31 15:45:12,720 INFO 69863 [egg-security] use methodnoallow middleware
+2018-01-31 15:45:12,720 INFO 69863 [egg-security] use noopen middleware
+2018-01-31 15:45:12,721 INFO 69863 [egg-security] use nosniff middleware
+2018-01-31 15:45:12,722 INFO 69863 [egg-security] use xssProtection middleware
+2018-01-31 15:45:12,723 INFO 69863 [egg-security] use xframe middleware
+2018-01-31 15:45:12,724 INFO 69863 [egg-security] use dta middleware
+2018-01-31 15:45:12,724 INFO 69863 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:45:12,829 INFO 69863 [egg-watcher:app] watcher start success
+2018-01-31 15:45:12,497 INFO 69861 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:45:12,595 INFO 69861 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:45:12,596 INFO 69861 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:45:12,752 INFO 69861 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:45:12,756 INFO 69861 [egg-security] use csrf middleware
+2018-01-31 15:45:12,757 INFO 69861 [egg-security] use methodnoallow middleware
+2018-01-31 15:45:12,757 INFO 69861 [egg-security] use noopen middleware
+2018-01-31 15:45:12,758 INFO 69861 [egg-security] use nosniff middleware
+2018-01-31 15:45:12,758 INFO 69861 [egg-security] use xssProtection middleware
+2018-01-31 15:45:12,759 INFO 69861 [egg-security] use xframe middleware
+2018-01-31 15:45:12,759 INFO 69861 [egg-security] use dta middleware
+2018-01-31 15:45:12,759 INFO 69861 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:45:12,842 INFO 69861 [egg-watcher:app] watcher start success
+2018-01-31 15:45:12,540 INFO 69864 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:45:12,616 INFO 69864 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:45:12,616 INFO 69864 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:45:12,761 INFO 69864 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:45:12,775 INFO 69864 [egg-security] use csrf middleware
+2018-01-31 15:45:12,776 INFO 69864 [egg-security] use methodnoallow middleware
+2018-01-31 15:45:12,777 INFO 69864 [egg-security] use noopen middleware
+2018-01-31 15:45:12,777 INFO 69864 [egg-security] use nosniff middleware
+2018-01-31 15:45:12,778 INFO 69864 [egg-security] use xssProtection middleware
+2018-01-31 15:45:12,778 INFO 69864 [egg-security] use xframe middleware
+2018-01-31 15:45:12,779 INFO 69864 [egg-security] use dta middleware
+2018-01-31 15:45:12,779 INFO 69864 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:45:12,862 INFO 69864 [egg-watcher:app] watcher start success
+2018-01-31 15:47:29,061 INFO 69988 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:47:29,124 INFO 69988 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:47:29,124 INFO 69988 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:47:29,260 INFO 69988 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:47:29,265 INFO 69988 [egg-security] use csrf middleware
+2018-01-31 15:47:29,266 INFO 69988 [egg-security] use methodnoallow middleware
+2018-01-31 15:47:29,267 INFO 69988 [egg-security] use noopen middleware
+2018-01-31 15:47:29,268 INFO 69988 [egg-security] use nosniff middleware
+2018-01-31 15:47:29,270 INFO 69988 [egg-security] use xssProtection middleware
+2018-01-31 15:47:29,273 INFO 69988 [egg-security] use xframe middleware
+2018-01-31 15:47:29,275 INFO 69988 [egg-security] use dta middleware
+2018-01-31 15:47:29,275 INFO 69988 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:47:29,607 INFO 69988 [egg-watcher:app] watcher start success
+2018-01-31 15:47:29,061 INFO 69989 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:47:29,124 INFO 69989 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:47:29,124 INFO 69989 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:47:29,263 INFO 69989 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:47:29,279 INFO 69989 [egg-security] use csrf middleware
+2018-01-31 15:47:29,282 INFO 69989 [egg-security] use methodnoallow middleware
+2018-01-31 15:47:29,282 INFO 69989 [egg-security] use noopen middleware
+2018-01-31 15:47:29,283 INFO 69989 [egg-security] use nosniff middleware
+2018-01-31 15:47:29,283 INFO 69989 [egg-security] use xssProtection middleware
+2018-01-31 15:47:29,284 INFO 69989 [egg-security] use xframe middleware
+2018-01-31 15:47:29,284 INFO 69989 [egg-security] use dta middleware
+2018-01-31 15:47:29,284 INFO 69989 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:47:29,454 INFO 69989 [egg-watcher:app] watcher start success
+2018-01-31 15:47:29,083 INFO 69990 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:47:29,146 INFO 69990 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:47:29,146 INFO 69990 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:47:29,260 INFO 69990 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:47:29,264 INFO 69990 [egg-security] use csrf middleware
+2018-01-31 15:47:29,266 INFO 69990 [egg-security] use methodnoallow middleware
+2018-01-31 15:47:29,267 INFO 69990 [egg-security] use noopen middleware
+2018-01-31 15:47:29,270 INFO 69990 [egg-security] use nosniff middleware
+2018-01-31 15:47:29,270 INFO 69990 [egg-security] use xssProtection middleware
+2018-01-31 15:47:29,271 INFO 69990 [egg-security] use xframe middleware
+2018-01-31 15:47:29,277 INFO 69990 [egg-security] use dta middleware
+2018-01-31 15:47:29,277 INFO 69990 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:47:29,560 INFO 69990 [egg-watcher:app] watcher start success
+2018-01-31 15:47:29,080 INFO 69987 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:47:29,166 INFO 69987 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:47:29,166 INFO 69987 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:47:29,452 INFO 69987 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:47:29,458 INFO 69987 [egg-security] use csrf middleware
+2018-01-31 15:47:29,466 INFO 69987 [egg-security] use methodnoallow middleware
+2018-01-31 15:47:29,495 INFO 69987 [egg-security] use noopen middleware
+2018-01-31 15:47:29,496 INFO 69987 [egg-security] use nosniff middleware
+2018-01-31 15:47:29,497 INFO 69987 [egg-security] use xssProtection middleware
+2018-01-31 15:47:29,499 INFO 69987 [egg-security] use xframe middleware
+2018-01-31 15:47:29,500 INFO 69987 [egg-security] use dta middleware
+2018-01-31 15:47:29,500 INFO 69987 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:47:29,911 INFO 69987 [egg-watcher:app] watcher start success
+2018-01-31 15:48:42,945 INFO 70057 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:48:43,020 INFO 70057 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:48:43,021 INFO 70057 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:48:43,129 INFO 70057 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:48:43,136 INFO 70057 [egg-security] use csrf middleware
+2018-01-31 15:48:43,138 INFO 70057 [egg-security] use methodnoallow middleware
+2018-01-31 15:48:43,140 INFO 70057 [egg-security] use noopen middleware
+2018-01-31 15:48:43,141 INFO 70057 [egg-security] use nosniff middleware
+2018-01-31 15:48:43,142 INFO 70057 [egg-security] use xssProtection middleware
+2018-01-31 15:48:43,145 INFO 70057 [egg-security] use xframe middleware
+2018-01-31 15:48:43,147 INFO 70057 [egg-security] use dta middleware
+2018-01-31 15:48:43,147 INFO 70057 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:48:43,244 INFO 70057 [egg-watcher:app] watcher start success
+2018-01-31 15:48:42,941 INFO 70055 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:48:43,042 INFO 70055 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:48:43,042 INFO 70055 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:48:43,162 INFO 70055 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:48:43,168 INFO 70055 [egg-security] use csrf middleware
+2018-01-31 15:48:43,170 INFO 70055 [egg-security] use methodnoallow middleware
+2018-01-31 15:48:43,171 INFO 70055 [egg-security] use noopen middleware
+2018-01-31 15:48:43,171 INFO 70055 [egg-security] use nosniff middleware
+2018-01-31 15:48:43,172 INFO 70055 [egg-security] use xssProtection middleware
+2018-01-31 15:48:43,172 INFO 70055 [egg-security] use xframe middleware
+2018-01-31 15:48:43,177 INFO 70055 [egg-security] use dta middleware
+2018-01-31 15:48:43,177 INFO 70055 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:48:43,253 INFO 70055 [egg-watcher:app] watcher start success
+2018-01-31 15:48:42,964 INFO 70058 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:48:43,024 INFO 70058 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:48:43,025 INFO 70058 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:48:43,129 INFO 70058 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:48:43,145 INFO 70058 [egg-security] use csrf middleware
+2018-01-31 15:48:43,145 INFO 70058 [egg-security] use methodnoallow middleware
+2018-01-31 15:48:43,146 INFO 70058 [egg-security] use noopen middleware
+2018-01-31 15:48:43,146 INFO 70058 [egg-security] use nosniff middleware
+2018-01-31 15:48:43,147 INFO 70058 [egg-security] use xssProtection middleware
+2018-01-31 15:48:43,147 INFO 70058 [egg-security] use xframe middleware
+2018-01-31 15:48:43,148 INFO 70058 [egg-security] use dta middleware
+2018-01-31 15:48:43,148 INFO 70058 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:48:43,228 INFO 70058 [egg-watcher:app] watcher start success
+2018-01-31 15:48:42,970 INFO 70056 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:48:43,035 INFO 70056 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:48:43,035 INFO 70056 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:48:43,132 INFO 70056 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:48:43,137 INFO 70056 [egg-security] use csrf middleware
+2018-01-31 15:48:43,138 INFO 70056 [egg-security] use methodnoallow middleware
+2018-01-31 15:48:43,141 INFO 70056 [egg-security] use noopen middleware
+2018-01-31 15:48:43,141 INFO 70056 [egg-security] use nosniff middleware
+2018-01-31 15:48:43,144 INFO 70056 [egg-security] use xssProtection middleware
+2018-01-31 15:48:43,145 INFO 70056 [egg-security] use xframe middleware
+2018-01-31 15:48:43,146 INFO 70056 [egg-security] use dta middleware
+2018-01-31 15:48:43,146 INFO 70056 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:48:43,229 INFO 70056 [egg-watcher:app] watcher start success
+2018-01-31 15:48:52,683 INFO 70070 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:48:52,769 INFO 70070 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:48:52,769 INFO 70070 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:48:52,875 INFO 70070 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:48:52,895 INFO 70070 [egg-security] use csrf middleware
+2018-01-31 15:48:52,897 INFO 70070 [egg-security] use methodnoallow middleware
+2018-01-31 15:48:52,898 INFO 70070 [egg-security] use noopen middleware
+2018-01-31 15:48:52,898 INFO 70070 [egg-security] use nosniff middleware
+2018-01-31 15:48:52,899 INFO 70070 [egg-security] use xssProtection middleware
+2018-01-31 15:48:52,900 INFO 70070 [egg-security] use xframe middleware
+2018-01-31 15:48:52,900 INFO 70070 [egg-security] use dta middleware
+2018-01-31 15:48:52,900 INFO 70070 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:48:53,084 INFO 70070 [egg-watcher:app] watcher start success
+2018-01-31 15:48:52,710 INFO 70072 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:48:52,783 INFO 70072 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:48:52,784 INFO 70072 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:48:52,940 INFO 70072 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:48:52,952 INFO 70072 [egg-security] use csrf middleware
+2018-01-31 15:48:52,954 INFO 70072 [egg-security] use methodnoallow middleware
+2018-01-31 15:48:52,979 INFO 70072 [egg-security] use noopen middleware
+2018-01-31 15:48:52,980 INFO 70072 [egg-security] use nosniff middleware
+2018-01-31 15:48:52,981 INFO 70072 [egg-security] use xssProtection middleware
+2018-01-31 15:48:52,982 INFO 70072 [egg-security] use xframe middleware
+2018-01-31 15:48:52,983 INFO 70072 [egg-security] use dta middleware
+2018-01-31 15:48:52,983 INFO 70072 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:48:53,206 INFO 70072 [egg-watcher:app] watcher start success
+2018-01-31 15:48:52,738 INFO 70073 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:48:52,819 INFO 70073 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:48:52,819 INFO 70073 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:48:53,038 INFO 70073 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:48:53,050 INFO 70073 [egg-security] use csrf middleware
+2018-01-31 15:48:53,052 INFO 70073 [egg-security] use methodnoallow middleware
+2018-01-31 15:48:53,052 INFO 70073 [egg-security] use noopen middleware
+2018-01-31 15:48:53,053 INFO 70073 [egg-security] use nosniff middleware
+2018-01-31 15:48:53,054 INFO 70073 [egg-security] use xssProtection middleware
+2018-01-31 15:48:53,055 INFO 70073 [egg-security] use xframe middleware
+2018-01-31 15:48:53,056 INFO 70073 [egg-security] use dta middleware
+2018-01-31 15:48:53,056 INFO 70073 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:48:53,310 INFO 70073 [egg-watcher:app] watcher start success
+2018-01-31 15:48:52,785 INFO 70071 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:48:52,860 INFO 70071 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:48:52,860 INFO 70071 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:48:53,096 INFO 70071 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:48:53,149 INFO 70071 [egg-security] use csrf middleware
+2018-01-31 15:48:53,151 INFO 70071 [egg-security] use methodnoallow middleware
+2018-01-31 15:48:53,152 INFO 70071 [egg-security] use noopen middleware
+2018-01-31 15:48:53,154 INFO 70071 [egg-security] use nosniff middleware
+2018-01-31 15:48:53,156 INFO 70071 [egg-security] use xssProtection middleware
+2018-01-31 15:48:53,186 INFO 70071 [egg-security] use xframe middleware
+2018-01-31 15:48:53,193 INFO 70071 [egg-security] use dta middleware
+2018-01-31 15:48:53,193 INFO 70071 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:48:53,343 INFO 70071 [egg-watcher:app] watcher start success
+2018-01-31 15:50:07,884 INFO 70152 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:50:07,965 INFO 70152 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:50:07,966 INFO 70152 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:50:08,058 INFO 70152 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:50:08,062 INFO 70152 [egg-security] use csrf middleware
+2018-01-31 15:50:08,064 INFO 70152 [egg-security] use methodnoallow middleware
+2018-01-31 15:50:08,065 INFO 70152 [egg-security] use noopen middleware
+2018-01-31 15:50:08,065 INFO 70152 [egg-security] use nosniff middleware
+2018-01-31 15:50:08,067 INFO 70152 [egg-security] use xssProtection middleware
+2018-01-31 15:50:08,067 INFO 70152 [egg-security] use xframe middleware
+2018-01-31 15:50:08,068 INFO 70152 [egg-security] use dta middleware
+2018-01-31 15:50:08,068 INFO 70152 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:50:08,155 INFO 70152 [egg-watcher:app] watcher start success
+2018-01-31 15:50:11,828 INFO 70159 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:50:11,976 INFO 70159 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:50:11,977 INFO 70159 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:50:12,137 INFO 70159 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:50:12,141 INFO 70159 [egg-security] use csrf middleware
+2018-01-31 15:50:12,142 INFO 70159 [egg-security] use methodnoallow middleware
+2018-01-31 15:50:12,151 INFO 70159 [egg-security] use noopen middleware
+2018-01-31 15:50:12,169 INFO 70159 [egg-security] use nosniff middleware
+2018-01-31 15:50:12,171 INFO 70159 [egg-security] use xssProtection middleware
+2018-01-31 15:50:12,172 INFO 70159 [egg-security] use xframe middleware
+2018-01-31 15:50:12,172 INFO 70159 [egg-security] use dta middleware
+2018-01-31 15:50:12,172 INFO 70159 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:50:12,311 INFO 70159 [egg-watcher:app] watcher start success
+2018-01-31 15:50:11,841 INFO 70157 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:50:11,986 INFO 70157 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:50:11,986 INFO 70157 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:50:12,170 INFO 70157 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:50:12,174 INFO 70157 [egg-security] use csrf middleware
+2018-01-31 15:50:12,186 INFO 70157 [egg-security] use methodnoallow middleware
+2018-01-31 15:50:12,189 INFO 70157 [egg-security] use noopen middleware
+2018-01-31 15:50:12,190 INFO 70157 [egg-security] use nosniff middleware
+2018-01-31 15:50:12,191 INFO 70157 [egg-security] use xssProtection middleware
+2018-01-31 15:50:12,192 INFO 70157 [egg-security] use xframe middleware
+2018-01-31 15:50:12,193 INFO 70157 [egg-security] use dta middleware
+2018-01-31 15:50:12,193 INFO 70157 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:50:12,313 INFO 70157 [egg-watcher:app] watcher start success
+2018-01-31 15:50:11,851 INFO 70158 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:50:11,994 INFO 70158 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:50:11,994 INFO 70158 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:50:12,133 INFO 70158 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:50:12,137 INFO 70158 [egg-security] use csrf middleware
+2018-01-31 15:50:12,178 INFO 70158 [egg-security] use methodnoallow middleware
+2018-01-31 15:50:12,182 INFO 70158 [egg-security] use noopen middleware
+2018-01-31 15:50:12,183 INFO 70158 [egg-security] use nosniff middleware
+2018-01-31 15:50:12,185 INFO 70158 [egg-security] use xssProtection middleware
+2018-01-31 15:50:12,186 INFO 70158 [egg-security] use xframe middleware
+2018-01-31 15:50:12,186 INFO 70158 [egg-security] use dta middleware
+2018-01-31 15:50:12,186 INFO 70158 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:50:12,316 INFO 70158 [egg-watcher:app] watcher start success
+2018-01-31 15:50:11,886 INFO 70156 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:50:12,040 INFO 70156 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:50:12,040 INFO 70156 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:50:12,244 INFO 70156 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:50:12,250 INFO 70156 [egg-security] use csrf middleware
+2018-01-31 15:50:12,251 INFO 70156 [egg-security] use methodnoallow middleware
+2018-01-31 15:50:12,251 INFO 70156 [egg-security] use noopen middleware
+2018-01-31 15:50:12,251 INFO 70156 [egg-security] use nosniff middleware
+2018-01-31 15:50:12,252 INFO 70156 [egg-security] use xssProtection middleware
+2018-01-31 15:50:12,252 INFO 70156 [egg-security] use xframe middleware
+2018-01-31 15:50:12,253 INFO 70156 [egg-security] use dta middleware
+2018-01-31 15:50:12,253 INFO 70156 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:50:12,346 INFO 70156 [egg-watcher:app] watcher start success
+2018-01-31 15:50:35,392 INFO 70187 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:50:35,453 INFO 70187 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:50:35,453 INFO 70187 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:50:35,550 INFO 70187 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:50:35,555 INFO 70187 [egg-security] use csrf middleware
+2018-01-31 15:50:35,556 INFO 70187 [egg-security] use methodnoallow middleware
+2018-01-31 15:50:35,556 INFO 70187 [egg-security] use noopen middleware
+2018-01-31 15:50:35,557 INFO 70187 [egg-security] use nosniff middleware
+2018-01-31 15:50:35,557 INFO 70187 [egg-security] use xssProtection middleware
+2018-01-31 15:50:35,558 INFO 70187 [egg-security] use xframe middleware
+2018-01-31 15:50:35,558 INFO 70187 [egg-security] use dta middleware
+2018-01-31 15:50:35,559 INFO 70187 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:50:35,643 INFO 70187 [egg-watcher:app] watcher start success
+2018-01-31 15:50:35,395 INFO 70188 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:50:35,453 INFO 70188 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:50:35,453 INFO 70188 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:50:35,556 INFO 70188 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:50:35,561 INFO 70188 [egg-security] use csrf middleware
+2018-01-31 15:50:35,562 INFO 70188 [egg-security] use methodnoallow middleware
+2018-01-31 15:50:35,563 INFO 70188 [egg-security] use noopen middleware
+2018-01-31 15:50:35,563 INFO 70188 [egg-security] use nosniff middleware
+2018-01-31 15:50:35,564 INFO 70188 [egg-security] use xssProtection middleware
+2018-01-31 15:50:35,565 INFO 70188 [egg-security] use xframe middleware
+2018-01-31 15:50:35,565 INFO 70188 [egg-security] use dta middleware
+2018-01-31 15:50:35,565 INFO 70188 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:50:35,663 INFO 70188 [egg-watcher:app] watcher start success
+2018-01-31 15:50:35,400 INFO 70189 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:50:35,455 INFO 70189 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:50:35,455 INFO 70189 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:50:35,550 INFO 70189 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:50:35,555 INFO 70189 [egg-security] use csrf middleware
+2018-01-31 15:50:35,556 INFO 70189 [egg-security] use methodnoallow middleware
+2018-01-31 15:50:35,557 INFO 70189 [egg-security] use noopen middleware
+2018-01-31 15:50:35,557 INFO 70189 [egg-security] use nosniff middleware
+2018-01-31 15:50:35,558 INFO 70189 [egg-security] use xssProtection middleware
+2018-01-31 15:50:35,558 INFO 70189 [egg-security] use xframe middleware
+2018-01-31 15:50:35,559 INFO 70189 [egg-security] use dta middleware
+2018-01-31 15:50:35,559 INFO 70189 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:50:35,717 INFO 70189 [egg-watcher:app] watcher start success
+2018-01-31 15:50:35,419 INFO 70190 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:50:35,479 INFO 70190 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:50:35,480 INFO 70190 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:50:35,574 INFO 70190 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:50:35,579 INFO 70190 [egg-security] use csrf middleware
+2018-01-31 15:50:35,580 INFO 70190 [egg-security] use methodnoallow middleware
+2018-01-31 15:50:35,581 INFO 70190 [egg-security] use noopen middleware
+2018-01-31 15:50:35,581 INFO 70190 [egg-security] use nosniff middleware
+2018-01-31 15:50:35,582 INFO 70190 [egg-security] use xssProtection middleware
+2018-01-31 15:50:35,582 INFO 70190 [egg-security] use xframe middleware
+2018-01-31 15:50:35,583 INFO 70190 [egg-security] use dta middleware
+2018-01-31 15:50:35,583 INFO 70190 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:50:35,747 INFO 70190 [egg-watcher:app] watcher start success
+2018-01-31 15:51:03,238 INFO 70222 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:51:03,307 INFO 70222 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:51:03,308 INFO 70222 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:51:03,428 INFO 70222 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:51:03,434 INFO 70222 [egg-security] use csrf middleware
+2018-01-31 15:51:03,436 INFO 70222 [egg-security] use methodnoallow middleware
+2018-01-31 15:51:03,437 INFO 70222 [egg-security] use noopen middleware
+2018-01-31 15:51:03,439 INFO 70222 [egg-security] use nosniff middleware
+2018-01-31 15:51:03,441 INFO 70222 [egg-security] use xssProtection middleware
+2018-01-31 15:51:03,441 INFO 70222 [egg-security] use xframe middleware
+2018-01-31 15:51:03,442 INFO 70222 [egg-security] use dta middleware
+2018-01-31 15:51:03,443 INFO 70222 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:51:03,880 INFO 70222 [egg-watcher:app] watcher start success
+2018-01-31 15:51:03,238 INFO 70224 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:51:03,309 INFO 70224 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:51:03,310 INFO 70224 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:51:03,428 INFO 70224 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:51:03,435 INFO 70224 [egg-security] use csrf middleware
+2018-01-31 15:51:03,436 INFO 70224 [egg-security] use methodnoallow middleware
+2018-01-31 15:51:03,443 INFO 70224 [egg-security] use noopen middleware
+2018-01-31 15:51:03,443 INFO 70224 [egg-security] use nosniff middleware
+2018-01-31 15:51:03,448 INFO 70224 [egg-security] use xssProtection middleware
+2018-01-31 15:51:03,449 INFO 70224 [egg-security] use xframe middleware
+2018-01-31 15:51:03,460 INFO 70224 [egg-security] use dta middleware
+2018-01-31 15:51:03,460 INFO 70224 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:51:03,930 INFO 70224 [egg-watcher:app] watcher start success
+2018-01-31 15:51:03,254 INFO 70221 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:51:03,339 INFO 70221 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:51:03,339 INFO 70221 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:51:03,503 INFO 70221 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:51:03,550 INFO 70221 [egg-security] use csrf middleware
+2018-01-31 15:51:03,552 INFO 70221 [egg-security] use methodnoallow middleware
+2018-01-31 15:51:03,558 INFO 70221 [egg-security] use noopen middleware
+2018-01-31 15:51:03,559 INFO 70221 [egg-security] use nosniff middleware
+2018-01-31 15:51:03,559 INFO 70221 [egg-security] use xssProtection middleware
+2018-01-31 15:51:03,560 INFO 70221 [egg-security] use xframe middleware
+2018-01-31 15:51:03,563 INFO 70221 [egg-security] use dta middleware
+2018-01-31 15:51:03,563 INFO 70221 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:51:03,944 INFO 70221 [egg-watcher:app] watcher start success
+2018-01-31 15:51:03,272 INFO 70223 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:51:03,352 INFO 70223 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:51:03,352 INFO 70223 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:51:03,568 INFO 70223 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:51:03,620 INFO 70223 [egg-security] use csrf middleware
+2018-01-31 15:51:03,747 INFO 70223 [egg-security] use methodnoallow middleware
+2018-01-31 15:51:03,748 INFO 70223 [egg-security] use noopen middleware
+2018-01-31 15:51:03,748 INFO 70223 [egg-security] use nosniff middleware
+2018-01-31 15:51:03,749 INFO 70223 [egg-security] use xssProtection middleware
+2018-01-31 15:51:03,749 INFO 70223 [egg-security] use xframe middleware
+2018-01-31 15:51:03,750 INFO 70223 [egg-security] use dta middleware
+2018-01-31 15:51:03,750 INFO 70223 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:51:03,971 INFO 70223 [egg-watcher:app] watcher start success
+2018-01-31 15:59:35,114 INFO 70694 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:59:35,172 INFO 70694 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:59:35,173 INFO 70694 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:59:35,273 INFO 70694 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:59:35,277 INFO 70694 [egg-security] use csrf middleware
+2018-01-31 15:59:35,278 INFO 70694 [egg-security] use methodnoallow middleware
+2018-01-31 15:59:35,281 INFO 70694 [egg-security] use noopen middleware
+2018-01-31 15:59:35,281 INFO 70694 [egg-security] use nosniff middleware
+2018-01-31 15:59:35,282 INFO 70694 [egg-security] use xssProtection middleware
+2018-01-31 15:59:35,284 INFO 70694 [egg-security] use xframe middleware
+2018-01-31 15:59:35,285 INFO 70694 [egg-security] use dta middleware
+2018-01-31 15:59:35,285 INFO 70694 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:59:35,369 INFO 70694 [egg-watcher:app] watcher start success
+2018-01-31 15:59:35,114 INFO 70693 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:59:35,176 INFO 70693 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:59:35,176 INFO 70693 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:59:35,272 INFO 70693 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:59:35,278 INFO 70693 [egg-security] use csrf middleware
+2018-01-31 15:59:35,279 INFO 70693 [egg-security] use methodnoallow middleware
+2018-01-31 15:59:35,280 INFO 70693 [egg-security] use noopen middleware
+2018-01-31 15:59:35,282 INFO 70693 [egg-security] use nosniff middleware
+2018-01-31 15:59:35,282 INFO 70693 [egg-security] use xssProtection middleware
+2018-01-31 15:59:35,284 INFO 70693 [egg-security] use xframe middleware
+2018-01-31 15:59:35,285 INFO 70693 [egg-security] use dta middleware
+2018-01-31 15:59:35,285 INFO 70693 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:59:35,379 INFO 70693 [egg-watcher:app] watcher start success
+2018-01-31 15:59:35,133 INFO 70695 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:59:35,183 INFO 70695 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:59:35,183 INFO 70695 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:59:35,277 INFO 70695 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:59:35,281 INFO 70695 [egg-security] use csrf middleware
+2018-01-31 15:59:35,284 INFO 70695 [egg-security] use methodnoallow middleware
+2018-01-31 15:59:35,286 INFO 70695 [egg-security] use noopen middleware
+2018-01-31 15:59:35,286 INFO 70695 [egg-security] use nosniff middleware
+2018-01-31 15:59:35,288 INFO 70695 [egg-security] use xssProtection middleware
+2018-01-31 15:59:35,289 INFO 70695 [egg-security] use xframe middleware
+2018-01-31 15:59:35,290 INFO 70695 [egg-security] use dta middleware
+2018-01-31 15:59:35,290 INFO 70695 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:59:35,390 INFO 70695 [egg-watcher:app] watcher start success
+2018-01-31 15:59:35,135 INFO 70692 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:59:35,185 INFO 70692 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:59:35,185 INFO 70692 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:59:35,275 INFO 70692 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:59:35,280 INFO 70692 [egg-security] use csrf middleware
+2018-01-31 15:59:35,280 INFO 70692 [egg-security] use methodnoallow middleware
+2018-01-31 15:59:35,281 INFO 70692 [egg-security] use noopen middleware
+2018-01-31 15:59:35,281 INFO 70692 [egg-security] use nosniff middleware
+2018-01-31 15:59:35,284 INFO 70692 [egg-security] use xssProtection middleware
+2018-01-31 15:59:35,285 INFO 70692 [egg-security] use xframe middleware
+2018-01-31 15:59:35,287 INFO 70692 [egg-security] use dta middleware
+2018-01-31 15:59:35,287 INFO 70692 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:59:35,422 INFO 70692 [egg-watcher:app] watcher start success
+2018-01-31 15:59:50,707 INFO 70712 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:59:50,819 INFO 70712 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:59:50,819 INFO 70712 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:59:51,078 INFO 70712 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:59:51,091 INFO 70712 [egg-security] use csrf middleware
+2018-01-31 15:59:51,092 INFO 70712 [egg-security] use methodnoallow middleware
+2018-01-31 15:59:51,093 INFO 70712 [egg-security] use noopen middleware
+2018-01-31 15:59:51,094 INFO 70712 [egg-security] use nosniff middleware
+2018-01-31 15:59:51,095 INFO 70712 [egg-security] use xssProtection middleware
+2018-01-31 15:59:51,096 INFO 70712 [egg-security] use xframe middleware
+2018-01-31 15:59:51,097 INFO 70712 [egg-security] use dta middleware
+2018-01-31 15:59:51,097 INFO 70712 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:59:51,518 INFO 70712 [egg-watcher:app] watcher start success
+2018-01-31 15:59:50,707 INFO 70715 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:59:50,825 INFO 70715 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:59:50,825 INFO 70715 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:59:51,080 INFO 70715 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:59:51,089 INFO 70715 [egg-security] use csrf middleware
+2018-01-31 15:59:51,091 INFO 70715 [egg-security] use methodnoallow middleware
+2018-01-31 15:59:51,093 INFO 70715 [egg-security] use noopen middleware
+2018-01-31 15:59:51,094 INFO 70715 [egg-security] use nosniff middleware
+2018-01-31 15:59:51,095 INFO 70715 [egg-security] use xssProtection middleware
+2018-01-31 15:59:51,096 INFO 70715 [egg-security] use xframe middleware
+2018-01-31 15:59:51,098 INFO 70715 [egg-security] use dta middleware
+2018-01-31 15:59:51,098 INFO 70715 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:59:51,508 INFO 70715 [egg-watcher:app] watcher start success
+2018-01-31 15:59:51,002 INFO 70713 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:59:51,097 INFO 70713 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:59:51,101 INFO 70713 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:59:51,606 INFO 70713 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:59:51,612 INFO 70713 [egg-security] use csrf middleware
+2018-01-31 15:59:51,613 INFO 70713 [egg-security] use methodnoallow middleware
+2018-01-31 15:59:51,614 INFO 70713 [egg-security] use noopen middleware
+2018-01-31 15:59:51,614 INFO 70713 [egg-security] use nosniff middleware
+2018-01-31 15:59:51,615 INFO 70713 [egg-security] use xssProtection middleware
+2018-01-31 15:59:51,615 INFO 70713 [egg-security] use xframe middleware
+2018-01-31 15:59:51,617 INFO 70713 [egg-security] use dta middleware
+2018-01-31 15:59:51,617 INFO 70713 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:59:51,698 INFO 70713 [egg-watcher:app] watcher start success
+2018-01-31 15:59:51,013 INFO 70714 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 15:59:51,171 INFO 70714 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 15:59:51,172 INFO 70714 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 15:59:51,626 INFO 70714 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 15:59:51,630 INFO 70714 [egg-security] use csrf middleware
+2018-01-31 15:59:51,632 INFO 70714 [egg-security] use methodnoallow middleware
+2018-01-31 15:59:51,633 INFO 70714 [egg-security] use noopen middleware
+2018-01-31 15:59:51,634 INFO 70714 [egg-security] use nosniff middleware
+2018-01-31 15:59:51,635 INFO 70714 [egg-security] use xssProtection middleware
+2018-01-31 15:59:51,636 INFO 70714 [egg-security] use xframe middleware
+2018-01-31 15:59:51,637 INFO 70714 [egg-security] use dta middleware
+2018-01-31 15:59:51,637 INFO 70714 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 15:59:51,715 INFO 70714 [egg-watcher:app] watcher start success
+2018-01-31 16:02:05,270 INFO 70833 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 16:02:05,341 INFO 70833 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 16:02:05,341 INFO 70833 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 16:02:05,468 INFO 70833 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 16:02:05,486 INFO 70833 [egg-security] use csrf middleware
+2018-01-31 16:02:05,486 INFO 70833 [egg-security] use methodnoallow middleware
+2018-01-31 16:02:05,486 INFO 70833 [egg-security] use noopen middleware
+2018-01-31 16:02:05,487 INFO 70833 [egg-security] use nosniff middleware
+2018-01-31 16:02:05,487 INFO 70833 [egg-security] use xssProtection middleware
+2018-01-31 16:02:05,487 INFO 70833 [egg-security] use xframe middleware
+2018-01-31 16:02:05,488 INFO 70833 [egg-security] use dta middleware
+2018-01-31 16:02:05,488 INFO 70833 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 16:02:05,619 INFO 70833 [egg-watcher:app] watcher start success
+2018-01-31 16:02:05,277 INFO 70834 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 16:02:05,363 INFO 70834 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 16:02:05,364 INFO 70834 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 16:02:05,471 INFO 70834 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 16:02:05,478 INFO 70834 [egg-security] use csrf middleware
+2018-01-31 16:02:05,479 INFO 70834 [egg-security] use methodnoallow middleware
+2018-01-31 16:02:05,480 INFO 70834 [egg-security] use noopen middleware
+2018-01-31 16:02:05,483 INFO 70834 [egg-security] use nosniff middleware
+2018-01-31 16:02:05,484 INFO 70834 [egg-security] use xssProtection middleware
+2018-01-31 16:02:05,485 INFO 70834 [egg-security] use xframe middleware
+2018-01-31 16:02:05,487 INFO 70834 [egg-security] use dta middleware
+2018-01-31 16:02:05,487 INFO 70834 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 16:02:05,596 INFO 70834 [egg-watcher:app] watcher start success
+2018-01-31 16:02:05,283 INFO 70832 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 16:02:05,358 INFO 70832 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 16:02:05,358 INFO 70832 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 16:02:05,476 INFO 70832 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 16:02:05,479 INFO 70832 [egg-security] use csrf middleware
+2018-01-31 16:02:05,484 INFO 70832 [egg-security] use methodnoallow middleware
+2018-01-31 16:02:05,484 INFO 70832 [egg-security] use noopen middleware
+2018-01-31 16:02:05,485 INFO 70832 [egg-security] use nosniff middleware
+2018-01-31 16:02:05,485 INFO 70832 [egg-security] use xssProtection middleware
+2018-01-31 16:02:05,486 INFO 70832 [egg-security] use xframe middleware
+2018-01-31 16:02:05,486 INFO 70832 [egg-security] use dta middleware
+2018-01-31 16:02:05,486 INFO 70832 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 16:02:05,602 INFO 70832 [egg-watcher:app] watcher start success
+2018-01-31 16:02:05,311 INFO 70835 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 16:02:05,386 INFO 70835 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 16:02:05,386 INFO 70835 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 16:02:05,491 INFO 70835 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 16:02:05,505 INFO 70835 [egg-security] use csrf middleware
+2018-01-31 16:02:05,506 INFO 70835 [egg-security] use methodnoallow middleware
+2018-01-31 16:02:05,507 INFO 70835 [egg-security] use noopen middleware
+2018-01-31 16:02:05,508 INFO 70835 [egg-security] use nosniff middleware
+2018-01-31 16:02:05,509 INFO 70835 [egg-security] use xssProtection middleware
+2018-01-31 16:02:05,509 INFO 70835 [egg-security] use xframe middleware
+2018-01-31 16:02:05,510 INFO 70835 [egg-security] use dta middleware
+2018-01-31 16:02:05,510 INFO 70835 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 16:02:05,605 INFO 70835 [egg-watcher:app] watcher start success
+2018-01-31 16:02:55,900 INFO 70892 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 16:02:56,110 INFO 70892 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 16:02:56,110 INFO 70892 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 16:02:56,296 INFO 70892 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 16:02:56,327 INFO 70892 [egg-security] use csrf middleware
+2018-01-31 16:02:56,328 INFO 70892 [egg-security] use methodnoallow middleware
+2018-01-31 16:02:56,328 INFO 70892 [egg-security] use noopen middleware
+2018-01-31 16:02:56,329 INFO 70892 [egg-security] use nosniff middleware
+2018-01-31 16:02:56,329 INFO 70892 [egg-security] use xssProtection middleware
+2018-01-31 16:02:56,330 INFO 70892 [egg-security] use xframe middleware
+2018-01-31 16:02:56,330 INFO 70892 [egg-security] use dta middleware
+2018-01-31 16:02:56,330 INFO 70892 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 16:02:56,447 INFO 70892 [egg-watcher:app] watcher start success
+2018-01-31 16:02:55,958 INFO 70893 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 16:02:56,130 INFO 70893 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 16:02:56,130 INFO 70893 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 16:02:56,284 INFO 70893 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 16:02:56,290 INFO 70893 [egg-security] use csrf middleware
+2018-01-31 16:02:56,291 INFO 70893 [egg-security] use methodnoallow middleware
+2018-01-31 16:02:56,292 INFO 70893 [egg-security] use noopen middleware
+2018-01-31 16:02:56,293 INFO 70893 [egg-security] use nosniff middleware
+2018-01-31 16:02:56,294 INFO 70893 [egg-security] use xssProtection middleware
+2018-01-31 16:02:56,295 INFO 70893 [egg-security] use xframe middleware
+2018-01-31 16:02:56,295 INFO 70893 [egg-security] use dta middleware
+2018-01-31 16:02:56,295 INFO 70893 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 16:02:56,432 INFO 70893 [egg-watcher:app] watcher start success
+2018-01-31 16:02:56,027 INFO 70891 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 16:02:56,157 INFO 70891 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 16:02:56,158 INFO 70891 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 16:02:56,379 INFO 70891 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 16:02:56,384 INFO 70891 [egg-security] use csrf middleware
+2018-01-31 16:02:56,385 INFO 70891 [egg-security] use methodnoallow middleware
+2018-01-31 16:02:56,385 INFO 70891 [egg-security] use noopen middleware
+2018-01-31 16:02:56,386 INFO 70891 [egg-security] use nosniff middleware
+2018-01-31 16:02:56,387 INFO 70891 [egg-security] use xssProtection middleware
+2018-01-31 16:02:56,388 INFO 70891 [egg-security] use xframe middleware
+2018-01-31 16:02:56,389 INFO 70891 [egg-security] use dta middleware
+2018-01-31 16:02:56,389 INFO 70891 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 16:02:56,524 INFO 70891 [egg-watcher:app] watcher start success
+2018-01-31 16:02:56,141 INFO 70890 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 16:02:56,255 INFO 70890 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 16:02:56,256 INFO 70890 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 16:02:56,460 INFO 70890 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 16:02:56,465 INFO 70890 [egg-security] use csrf middleware
+2018-01-31 16:02:56,466 INFO 70890 [egg-security] use methodnoallow middleware
+2018-01-31 16:02:56,467 INFO 70890 [egg-security] use noopen middleware
+2018-01-31 16:02:56,468 INFO 70890 [egg-security] use nosniff middleware
+2018-01-31 16:02:56,470 INFO 70890 [egg-security] use xssProtection middleware
+2018-01-31 16:02:56,477 INFO 70890 [egg-security] use xframe middleware
+2018-01-31 16:02:56,478 INFO 70890 [egg-security] use dta middleware
+2018-01-31 16:02:56,479 INFO 70890 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 16:02:56,674 INFO 70890 [egg-watcher:app] watcher start success
+2018-01-31 16:03:09,116 INFO 70907 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 16:03:09,238 INFO 70907 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 16:03:09,238 INFO 70907 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 16:03:09,400 INFO 70907 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 16:03:09,404 INFO 70907 [egg-security] use csrf middleware
+2018-01-31 16:03:09,405 INFO 70907 [egg-security] use methodnoallow middleware
+2018-01-31 16:03:09,406 INFO 70907 [egg-security] use noopen middleware
+2018-01-31 16:03:09,406 INFO 70907 [egg-security] use nosniff middleware
+2018-01-31 16:03:09,407 INFO 70907 [egg-security] use xssProtection middleware
+2018-01-31 16:03:09,407 INFO 70907 [egg-security] use xframe middleware
+2018-01-31 16:03:09,408 INFO 70907 [egg-security] use dta middleware
+2018-01-31 16:03:09,408 INFO 70907 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 16:03:09,509 INFO 70907 [egg-watcher:app] watcher start success
+2018-01-31 16:03:09,120 INFO 70906 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 16:03:09,232 INFO 70906 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 16:03:09,232 INFO 70906 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 16:03:09,388 INFO 70906 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 16:03:09,392 INFO 70906 [egg-security] use csrf middleware
+2018-01-31 16:03:09,397 INFO 70906 [egg-security] use methodnoallow middleware
+2018-01-31 16:03:09,397 INFO 70906 [egg-security] use noopen middleware
+2018-01-31 16:03:09,398 INFO 70906 [egg-security] use nosniff middleware
+2018-01-31 16:03:09,398 INFO 70906 [egg-security] use xssProtection middleware
+2018-01-31 16:03:09,399 INFO 70906 [egg-security] use xframe middleware
+2018-01-31 16:03:09,400 INFO 70906 [egg-security] use dta middleware
+2018-01-31 16:03:09,400 INFO 70906 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 16:03:09,507 INFO 70906 [egg-watcher:app] watcher start success
+2018-01-31 16:03:09,121 INFO 70905 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 16:03:09,228 INFO 70905 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 16:03:09,228 INFO 70905 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 16:03:09,368 INFO 70905 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 16:03:09,388 INFO 70905 [egg-security] use csrf middleware
+2018-01-31 16:03:09,389 INFO 70905 [egg-security] use methodnoallow middleware
+2018-01-31 16:03:09,390 INFO 70905 [egg-security] use noopen middleware
+2018-01-31 16:03:09,390 INFO 70905 [egg-security] use nosniff middleware
+2018-01-31 16:03:09,391 INFO 70905 [egg-security] use xssProtection middleware
+2018-01-31 16:03:09,392 INFO 70905 [egg-security] use xframe middleware
+2018-01-31 16:03:09,392 INFO 70905 [egg-security] use dta middleware
+2018-01-31 16:03:09,392 INFO 70905 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 16:03:09,500 INFO 70905 [egg-watcher:app] watcher start success
+2018-01-31 16:03:09,128 INFO 70904 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 16:03:09,229 INFO 70904 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 16:03:09,229 INFO 70904 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 16:03:09,385 INFO 70904 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 16:03:09,394 INFO 70904 [egg-security] use csrf middleware
+2018-01-31 16:03:09,395 INFO 70904 [egg-security] use methodnoallow middleware
+2018-01-31 16:03:09,396 INFO 70904 [egg-security] use noopen middleware
+2018-01-31 16:03:09,397 INFO 70904 [egg-security] use nosniff middleware
+2018-01-31 16:03:09,397 INFO 70904 [egg-security] use xssProtection middleware
+2018-01-31 16:03:09,398 INFO 70904 [egg-security] use xframe middleware
+2018-01-31 16:03:09,399 INFO 70904 [egg-security] use dta middleware
+2018-01-31 16:03:09,399 INFO 70904 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 16:03:09,498 INFO 70904 [egg-watcher:app] watcher start success
+2018-01-31 16:03:15,778 INFO 70917 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 16:03:15,854 INFO 70917 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 16:03:15,854 INFO 70917 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 16:03:15,935 INFO 70917 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 16:03:15,939 INFO 70917 [egg-security] use csrf middleware
+2018-01-31 16:03:15,940 INFO 70917 [egg-security] use methodnoallow middleware
+2018-01-31 16:03:15,941 INFO 70917 [egg-security] use noopen middleware
+2018-01-31 16:03:15,942 INFO 70917 [egg-security] use nosniff middleware
+2018-01-31 16:03:15,942 INFO 70917 [egg-security] use xssProtection middleware
+2018-01-31 16:03:15,943 INFO 70917 [egg-security] use xframe middleware
+2018-01-31 16:03:15,943 INFO 70917 [egg-security] use dta middleware
+2018-01-31 16:03:15,943 INFO 70917 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 16:03:16,046 INFO 70917 [egg-watcher:app] watcher start success
+2018-01-31 16:03:18,043 INFO 70922 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 16:03:18,118 INFO 70922 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 16:03:18,118 INFO 70922 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 16:03:18,217 INFO 70922 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 16:03:18,226 INFO 70922 [egg-security] use csrf middleware
+2018-01-31 16:03:18,227 INFO 70922 [egg-security] use methodnoallow middleware
+2018-01-31 16:03:18,228 INFO 70922 [egg-security] use noopen middleware
+2018-01-31 16:03:18,229 INFO 70922 [egg-security] use nosniff middleware
+2018-01-31 16:03:18,229 INFO 70922 [egg-security] use xssProtection middleware
+2018-01-31 16:03:18,230 INFO 70922 [egg-security] use xframe middleware
+2018-01-31 16:03:18,230 INFO 70922 [egg-security] use dta middleware
+2018-01-31 16:03:18,230 INFO 70922 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 16:03:18,447 INFO 70922 [egg-watcher:app] watcher start success
+2018-01-31 16:03:18,062 INFO 70921 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 16:03:18,138 INFO 70921 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 16:03:18,139 INFO 70921 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 16:03:18,234 INFO 70921 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 16:03:18,244 INFO 70921 [egg-security] use csrf middleware
+2018-01-31 16:03:18,246 INFO 70921 [egg-security] use methodnoallow middleware
+2018-01-31 16:03:18,247 INFO 70921 [egg-security] use noopen middleware
+2018-01-31 16:03:18,248 INFO 70921 [egg-security] use nosniff middleware
+2018-01-31 16:03:18,248 INFO 70921 [egg-security] use xssProtection middleware
+2018-01-31 16:03:18,249 INFO 70921 [egg-security] use xframe middleware
+2018-01-31 16:03:18,249 INFO 70921 [egg-security] use dta middleware
+2018-01-31 16:03:18,249 INFO 70921 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 16:03:18,512 INFO 70921 [egg-watcher:app] watcher start success
+2018-01-31 16:03:18,083 INFO 70924 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 16:03:18,166 INFO 70924 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 16:03:18,167 INFO 70924 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 16:03:18,251 INFO 70924 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 16:03:18,258 INFO 70924 [egg-security] use csrf middleware
+2018-01-31 16:03:18,259 INFO 70924 [egg-security] use methodnoallow middleware
+2018-01-31 16:03:18,260 INFO 70924 [egg-security] use noopen middleware
+2018-01-31 16:03:18,260 INFO 70924 [egg-security] use nosniff middleware
+2018-01-31 16:03:18,260 INFO 70924 [egg-security] use xssProtection middleware
+2018-01-31 16:03:18,261 INFO 70924 [egg-security] use xframe middleware
+2018-01-31 16:03:18,266 INFO 70924 [egg-security] use dta middleware
+2018-01-31 16:03:18,266 INFO 70924 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 16:03:18,519 INFO 70924 [egg-watcher:app] watcher start success
+2018-01-31 16:03:18,117 INFO 70923 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 16:03:18,198 INFO 70923 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 16:03:18,198 INFO 70923 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 16:03:18,413 INFO 70923 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 16:03:18,444 INFO 70923 [egg-security] use csrf middleware
+2018-01-31 16:03:18,446 INFO 70923 [egg-security] use methodnoallow middleware
+2018-01-31 16:03:18,447 INFO 70923 [egg-security] use noopen middleware
+2018-01-31 16:03:18,447 INFO 70923 [egg-security] use nosniff middleware
+2018-01-31 16:03:18,448 INFO 70923 [egg-security] use xssProtection middleware
+2018-01-31 16:03:18,459 INFO 70923 [egg-security] use xframe middleware
+2018-01-31 16:03:18,465 INFO 70923 [egg-security] use dta middleware
+2018-01-31 16:03:18,465 INFO 70923 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 16:03:18,628 INFO 70923 [egg-watcher:app] watcher start success
+2018-01-31 16:04:12,592 INFO 70975 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 16:04:12,739 INFO 70975 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 16:04:12,739 INFO 70975 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 16:04:12,950 INFO 70975 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 16:04:12,961 INFO 70975 [egg-security] use csrf middleware
+2018-01-31 16:04:12,962 INFO 70975 [egg-security] use methodnoallow middleware
+2018-01-31 16:04:12,965 INFO 70975 [egg-security] use noopen middleware
+2018-01-31 16:04:12,966 INFO 70975 [egg-security] use nosniff middleware
+2018-01-31 16:04:12,967 INFO 70975 [egg-security] use xssProtection middleware
+2018-01-31 16:04:12,968 INFO 70975 [egg-security] use xframe middleware
+2018-01-31 16:04:12,969 INFO 70975 [egg-security] use dta middleware
+2018-01-31 16:04:12,969 INFO 70975 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 16:04:13,109 INFO 70975 [egg-watcher:app] watcher start success
+2018-01-31 16:04:12,591 INFO 70974 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 16:04:12,746 INFO 70974 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 16:04:12,746 INFO 70974 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 16:04:12,953 INFO 70974 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 16:04:12,962 INFO 70974 [egg-security] use csrf middleware
+2018-01-31 16:04:12,966 INFO 70974 [egg-security] use methodnoallow middleware
+2018-01-31 16:04:12,967 INFO 70974 [egg-security] use noopen middleware
+2018-01-31 16:04:12,967 INFO 70974 [egg-security] use nosniff middleware
+2018-01-31 16:04:12,968 INFO 70974 [egg-security] use xssProtection middleware
+2018-01-31 16:04:12,969 INFO 70974 [egg-security] use xframe middleware
+2018-01-31 16:04:12,969 INFO 70974 [egg-security] use dta middleware
+2018-01-31 16:04:12,969 INFO 70974 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 16:04:13,099 INFO 70974 [egg-watcher:app] watcher start success
+2018-01-31 16:04:12,600 INFO 70972 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 16:04:12,738 INFO 70972 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 16:04:12,739 INFO 70972 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 16:04:12,986 INFO 70972 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 16:04:13,015 INFO 70972 [egg-security] use csrf middleware
+2018-01-31 16:04:13,016 INFO 70972 [egg-security] use methodnoallow middleware
+2018-01-31 16:04:13,016 INFO 70972 [egg-security] use noopen middleware
+2018-01-31 16:04:13,017 INFO 70972 [egg-security] use nosniff middleware
+2018-01-31 16:04:13,017 INFO 70972 [egg-security] use xssProtection middleware
+2018-01-31 16:04:13,018 INFO 70972 [egg-security] use xframe middleware
+2018-01-31 16:04:13,018 INFO 70972 [egg-security] use dta middleware
+2018-01-31 16:04:13,018 INFO 70972 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 16:04:13,127 INFO 70972 [egg-watcher:app] watcher start success
+2018-01-31 16:04:12,593 INFO 70973 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 16:04:12,782 INFO 70973 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 16:04:12,782 INFO 70973 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 16:04:13,016 INFO 70973 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 16:04:13,023 INFO 70973 [egg-security] use csrf middleware
+2018-01-31 16:04:13,024 INFO 70973 [egg-security] use methodnoallow middleware
+2018-01-31 16:04:13,025 INFO 70973 [egg-security] use noopen middleware
+2018-01-31 16:04:13,025 INFO 70973 [egg-security] use nosniff middleware
+2018-01-31 16:04:13,027 INFO 70973 [egg-security] use xssProtection middleware
+2018-01-31 16:04:13,033 INFO 70973 [egg-security] use xframe middleware
+2018-01-31 16:04:13,035 INFO 70973 [egg-security] use dta middleware
+2018-01-31 16:04:13,035 INFO 70973 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 16:04:13,144 INFO 70973 [egg-watcher:app] watcher start success
+2018-01-31 18:23:27,836 INFO 81799 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 18:23:27,993 INFO 81799 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 18:23:27,993 INFO 81799 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 18:23:28,239 INFO 81799 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 18:23:28,245 INFO 81799 [egg-security] use csrf middleware
+2018-01-31 18:23:28,247 INFO 81799 [egg-security] use methodnoallow middleware
+2018-01-31 18:23:28,248 INFO 81799 [egg-security] use noopen middleware
+2018-01-31 18:23:28,250 INFO 81799 [egg-security] use nosniff middleware
+2018-01-31 18:23:28,251 INFO 81799 [egg-security] use xssProtection middleware
+2018-01-31 18:23:28,253 INFO 81799 [egg-security] use xframe middleware
+2018-01-31 18:23:28,254 INFO 81799 [egg-security] use dta middleware
+2018-01-31 18:23:28,255 INFO 81799 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 18:23:28,404 INFO 81799 [egg-watcher:app] watcher start success
+2018-01-31 18:23:27,840 INFO 81801 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 18:23:27,999 INFO 81801 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 18:23:27,999 INFO 81801 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 18:23:28,248 INFO 81801 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 18:23:28,256 INFO 81801 [egg-security] use csrf middleware
+2018-01-31 18:23:28,258 INFO 81801 [egg-security] use methodnoallow middleware
+2018-01-31 18:23:28,259 INFO 81801 [egg-security] use noopen middleware
+2018-01-31 18:23:28,260 INFO 81801 [egg-security] use nosniff middleware
+2018-01-31 18:23:28,298 INFO 81801 [egg-security] use xssProtection middleware
+2018-01-31 18:23:28,300 INFO 81801 [egg-security] use xframe middleware
+2018-01-31 18:23:28,300 INFO 81801 [egg-security] use dta middleware
+2018-01-31 18:23:28,300 INFO 81801 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 18:23:28,395 INFO 81801 [egg-watcher:app] watcher start success
+2018-01-31 18:23:27,891 INFO 81802 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 18:23:28,010 INFO 81802 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 18:23:28,010 INFO 81802 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 18:23:28,249 INFO 81802 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 18:23:28,283 INFO 81802 [egg-security] use csrf middleware
+2018-01-31 18:23:28,296 INFO 81802 [egg-security] use methodnoallow middleware
+2018-01-31 18:23:28,297 INFO 81802 [egg-security] use noopen middleware
+2018-01-31 18:23:28,298 INFO 81802 [egg-security] use nosniff middleware
+2018-01-31 18:23:28,300 INFO 81802 [egg-security] use xssProtection middleware
+2018-01-31 18:23:28,301 INFO 81802 [egg-security] use xframe middleware
+2018-01-31 18:23:28,301 INFO 81802 [egg-security] use dta middleware
+2018-01-31 18:23:28,302 INFO 81802 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 18:23:28,402 INFO 81802 [egg-watcher:app] watcher start success
+2018-01-31 18:23:27,912 INFO 81800 [egg:logger] init all loggers with options: {"dir":"/Users/shunpingqi/Desktop/sedawk/tt/ttv/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"ttv-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":true,"type":"application"}
+2018-01-31 18:23:28,032 INFO 81800 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-01-31 18:23:28,033 INFO 81800 [egg-schedule]: register schedule /Users/shunpingqi/Desktop/sedawk/tt/ttv/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-01-31 18:23:28,287 INFO 81800 [egg-static] starting static serve /public/ -> /Users/shunpingqi/Desktop/sedawk/tt/ttv/public
+2018-01-31 18:23:28,305 INFO 81800 [egg-security] use csrf middleware
+2018-01-31 18:23:28,308 INFO 81800 [egg-security] use methodnoallow middleware
+2018-01-31 18:23:28,309 INFO 81800 [egg-security] use noopen middleware
+2018-01-31 18:23:28,309 INFO 81800 [egg-security] use nosniff middleware
+2018-01-31 18:23:28,311 INFO 81800 [egg-security] use xssProtection middleware
+2018-01-31 18:23:28,312 INFO 81800 [egg-security] use xframe middleware
+2018-01-31 18:23:28,312 INFO 81800 [egg-security] use dta middleware
+2018-01-31 18:23:28,313 INFO 81800 [egg-security] compose 7 middlewares into one security middleware
+2018-01-31 18:23:28,399 INFO 81800 [egg-watcher:app] watcher start success
